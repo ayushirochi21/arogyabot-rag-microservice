@@ -1,0 +1,230 @@
+The exact source listed by ICMR is “Standard Treatment Workflow (STW) for the
+Management of FEVER IN CHILDREN,” ICD-10-R50. ICMR currently lists it under
+Paediatrics Standard Treatment Workflows.
+11. FEVER IN CHILDREN
+Overview
+Fever is a common clinical presentation in children and may occur due to a wide range
+of infectious and non-infectious conditions. The ICMR Standard Treatment Workflow
+emphasizes assessing the duration of fever, associated/localizing symptoms,
+general appearance, vital signs and physical findings to identify the likely cause and
+determine whether investigations, treatment, hospitalization or referral are required.
+Definition of Fever
+According to the ICMR STW:
+• Core/rectal temperature ≥38.0°C (100.4°F) is considered fever.
+• Axillary temperature >37.5°C is also considered fever.
+What to Ask
+When evaluating a child with fever, the ICMR workflow recommends asking about:
+• Duration of fever
+• Localizing symptoms suggesting:
+o Respiratory tract infection
+o Urinary tract infection
+o Gastrointestinal infection
+o Central nervous system infection
+• Rash
+• Joint symptoms
+• Skin or soft-tissue swelling/redness
+• Recent vaccination within 24 hours
+• Drug or toxin exposure
+• Similar illness among family members or in the neighbourhood.
+Clinical Examination
+Vital Signs
+Assess:
+• Temperature
+• Heart rate
+• Respiratory rate
+• Blood pressure
+• Capillary filling time (CFT)
+General Appearance
+Look for:
+• Sick or toxic appearance
+• Lethargy
+• Irritability
+• Inconsolability
+• Dehydration
+General Examination
+Examine:
+• Ear, nose and throat
+• Skin and rash
+• Lymph nodes
+• Joints
+• Genital area
+• Bones
+• Skin for pustules, pyoderma, impetigo or cellulitis.
+Systemic Examination
+The workflow includes examination of:
+• Chest
+• Abdomen
+• Central nervous system
+• Cardiovascular system.
+Clinical Clues to Possible Diagnosis
+The ICMR workflow provides specific symptom combinations that can help identify
+possible causes.
+Fever + Respiratory Symptoms
+• Cough + runny nose → Upper respiratory tract infection (URTI)
+• Membrane over tonsils/pharynx → Diphtheria
+• Paroxysmal cough → Pertussis-like illness
+• Barking cough → Laryngotracheobronchitis / croup
+Fever + Rash
+• Red maculopapular rash → Measles, rubella or dengue
+• Fine generalized maculopapular rash + systemic dysfunction/shock →
+Meningococcemia
+• Itchy erythematous macules progressing to clear vesicles → Varicella
+Fever + Other Findings
+• Parotid swelling → Mumps
+• Arthritis → Consider chikungunya, acute rheumatic fever or juvenile idiopathic
+arthritis
+• Strawberry-red tongue + skin peeling + lymphadenopathy + conjunctival
+injection → Kawasaki disease.
+Investigation of the Febrile Child
+The ICMR STW emphasizes that investigations should be performed when the result is
+expected to influence management.
+Fever <7 Days
+For a child with fever alone:
+• If fever is <72 hours and the child does not appear sick:
+o No investigations are generally required.
+• If fever persists for >72 hours, investigations may include:
+o Total leukocyte count (TLC)
+o Differential leukocyte count (DLC)
+o Peripheral smear for leukocyte morphology
+o Malarial parasite testing
+o Platelet count
+Additional investigations may be considered according to the clinical situation.
+Fever >7 Days
+When fever persists for more than 7 days, particularly when localizing symptoms are
+present, broader investigations may be considered based on clinical findings.
+The ICMR workflow lists investigations such as:
+• Serological testing for selected infections
+• Bone marrow examination where indicated
+• ANA profile
+• HIV serology
+• Echocardiography
+• CT/PET imaging in selected situations
+• Testing for infections such as Brucella, CMV, herpes and Japanese
+encephalitis, depending on the clinical presentation.
+Important: These are not tests that every child with fever should undergo. The ICMR
+workflow uses them selectively according to fever duration, symptoms and clinical
+suspicion.
+Management
+The ICMR workflow organizes management into five steps.
+STEP 1 — Initial Assessment and Stabilization
+• Identify and manage urgent problems.
+• Reduce fever using paracetamol (15 mg/kg by any route) and/or hydrotherapy.
+• Manage life-threatening conditions immediately.
+• Consider the first dose of an antibiotic when meningitis, severe pneumonia or
+severe malnutrition is suspected.
+• Consider antimalarial treatment when malaria is suspected.
+STEP 2 — Consider Hospitalization
+Hospital observation/management should be considered for:
+• All neonates
+• Young infants with a toxic appearance
+• Children with severe malnutrition
+• Toxic appearance
+• Inability to feed
+• Lethargy
+• Irritability
+• Dehydration
+• Fever/illness lasting >14 days without a diagnosis
+• Any other situation where the treating physician considers hospitalization
+necessary.
+STEP 3 — Consider Referral to a Tertiary-Care Centre
+After appropriate stabilization and/or initial management, referral should be considered
+when there is:
+• Need for intensive care
+• Complex multisystem disease
+• Confirmed complications of the primary illness.
+STEP 4 — Empiric Management
+Empiric treatment should be based on:
+• Likely diagnosis
+• Clinical severity/sickness status
+• Availability of investigation facilities
+Treatment should subsequently be modified according to investigation results and
+local antimicrobial sensitivity patterns.
+The ICMR STW specifically states that anti-tuberculosis treatment should not be
+started empirically, except in suspected tuberculous meningitis.
+STEP 5 — Consider Discharge When
+Discharge may be considered when:
+• The child has been afebrile for >48 hours or fever is showing defervescence.
+• The child is feeding well.
+• Symptoms other than fever have resolved or are resolving.
+• The physician is satisfied that further care can safely continue on an ambulatory
+basis.
+• The required duration of IV antibiotic therapy has been completed.
+When Urgent Medical Attention Is Needed
+Based on the ICMR workflow, particular concern is warranted when a febrile child has:
+• Toxic or very sick appearance
+• Lethargy or marked irritability
+• Inability to feed
+• Dehydration
+• Signs suggesting meningitis or severe pneumonia
+• Severe malnutrition
+• Signs of systemic dysfunction or shock
+• Complex multisystem involvement
+• Prolonged fever without an established diagnosis.
+Quick Fact Sheet
+Feature Fever in Children
+ICMR source Standard Treatment Workflow (STW)
+Scope Children
+ICD-10 R50
+Fever definition Core ≥38.0°C or axillary >37.5°C
+Initial
+Fever duration + symptoms + vital signs + clinical examination
+assessment
+Common clues Respiratory symptoms, rash, joint symptoms, GI/CNS symptoms
+Based on duration, symptoms and whether results affect
+Investigations
+management
+Initial treatment Stabilization + fever control + condition-specific management
+Based on age, appearance, feeding, dehydration, severity and
+Hospitalization
+duration
+Intensive-care need, complex multisystem disease or
+Referral
+complications
+Afebrile/improving, feeding well, symptoms resolving and physician
+Discharge
+satisfied
+VISUALS YOU SHOULD ADD
+For this particular topic, the ICMR STW itself is already essentially a flowchart, so
+this is different from #9 and #10.
+1. MOST IMPORTANT — Recreate the ICMR workflow
+Use this structure:
+CHILD WITH FEVER
+↓
+WHAT TO ASK?
+↓
+EXAMINATION
+↓
+CLUES TO SPECIFIC DIAGNOSIS
+↓
+DECIDE INVESTIGATIONS
+↓
+INITIAL STABILIZATION
+↓
+HOSPITALIZATION / REFERRAL IF REQUIRED
+↓
+EMPIRIC / CONDITION-SPECIFIC MANAGEMENT
+↓
+DISCHARGE WHEN CRITERIA ARE MET
+This will make your PDF much more useful for the AI health-awareness chatbot
+project.
+2. Fever + Symptoms visual
+You can make a simple central diagram:
+FEVER
+→ Respiratory symptoms
+→ Rash
+→ Joint symptoms
+→ GI symptoms
+→ CNS symptoms
+→ Skin/soft-tissue findings
+Then show examples of possible diagnoses from the ICMR STW.
+3. Investigation timeline
+A very useful visual would be:
+<72 hours + child not sick → Usually no investigation
+>72 hours → Consider basic investigations
+>7 days / localizing symptoms → Targeted investigations based on clinical findings
+This is directly based on the ICMR workflow
+Official reference
+Indian Council of Medical Research (ICMR), Department of Health Research,
+Ministry of Health & Family Welfare, Government of India. Standard Treatment
+Workflow (STW) for the Management of Fever in Children, ICD-10-R50.
+ICMR — Standard Treatment Workflows (official page)

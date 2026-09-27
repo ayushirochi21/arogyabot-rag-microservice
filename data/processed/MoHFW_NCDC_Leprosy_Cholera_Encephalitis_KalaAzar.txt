@@ -1,0 +1,714 @@
+9. LEPROSY
+1. Disease Name
+Leprosy
+2. Programme
+National Leprosy Eradication Programme (NLEP), Ministry of Health & Family
+Welfare, Government of India
+3. Overview
+• Leprosy is a chronic infectious disease.
+• The disease primarily affects the skin and peripheral nerves.
+• Leprosy can cause nerve damage, loss of sensation, muscle weakness and
+disability if diagnosis and treatment are delayed.
+• Leprosy is curable with multidrug therapy (MDT).
+• The National Leprosy Eradication Programme provides diagnosis and treatment
+services free of cost through public health facilities.
+• The current revised classification and treatment protocol was implemented
+throughout India from 1 April 2025.
+4. Causative Organism
+• Mycobacterium leprae is the causative organism of leprosy.
+• The organism primarily affects peripheral nerves and the skin.
+5. Transmission
+• Transmission is associated mainly with prolonged exposure to an untreated
+person with leprosy.
+• The respiratory tract is an important route involved in transmission.
+• Respiratory droplets from an untreated infectious person can transmit the
+organism.
+• The risk of transmission decreases substantially after effective treatment is
+started.
+• The incubation period of leprosy is long and variable.
+6. Main Signs and Symptoms
+Skin-related signs
+• Pale or hypopigmented skin patches.
+• Reddish skin patches.
+• Loss or reduction of sensation over a skin lesion.
+• Thickened or infiltrated skin.
+• Nodules may occur in some forms of disease.
+Nerve-related signs
+• Thickened peripheral nerves.
+• Numbness.
+• Loss of sensation.
+• Muscle weakness.
+• Nerve pain or tenderness.
+• Weakness of muscles supplied by affected nerves.
+Other possible manifestations
+• Eye involvement.
+• Nasal involvement.
+• Ulcers caused by loss of sensation.
+• Deformities caused by prolonged nerve damage.
+7. Cardinal Signs Used for Diagnosis
+A diagnosis of leprosy is supported by the presence of characteristic clinical or
+laboratory findings.
+Cardinal Sign 1
+• A pale or reddish skin lesion with definite loss of sensation.
+Cardinal Sign 2
+• Peripheral nerve involvement.
+• Nerve involvement may include nerve thickening.
+• Nerve involvement may be associated with loss of sensation.
+• Nerve involvement may be associated with weakness of muscles supplied by the
+affected nerve.
+Cardinal Sign 3
+• Demonstration of Mycobacterium leprae in an appropriate laboratory
+specimen.
+8. Revised Classification Under NLEP
+Feature Paucibacillary (PB) Multibacillary (MB)
+Skin lesions 1–5 More than 5
+Nerve involvement No nerve involvement One or more nerves involved
+Bacilli in slit-skin smear Absent/negative Present/positive
+The revised classification emphasizes lesion count, nerve involvement and laboratory
+findings.
+9. Diagnosis
+Diagnosis is based primarily on clinical assessment.
+Important diagnostic components include:
+• Examination of skin lesions.
+• Testing sensation over suspected skin lesions.
+• Examination of peripheral nerves.
+• Assessment of sensory function.
+• Assessment of motor function.
+• Slit-skin smear or other appropriate laboratory testing when indicated.
+10. Treatment
+• Leprosy is treated with multidrug therapy (MDT).
+• The current NLEP protocol uses a three-drug MDT regimen.
+• The three drugs are:
+o Rifampicin
+o Dapsone
+o Clofazimine
+• The revised protocol uses the three-drug regimen for both PB and MB cases.
+• Current treatment duration under the revised NLEP protocol is:
+o PB: 6 months
+o MB: 12 months
+• Treatment should be completed according to the prescribed regimen.
+• Diagnosis and treatment services are provided free of cost through public health
+facilities.
+11. Leprosy Reactions
+Leprosy reactions are inflammatory episodes that may occur before, during or after
+treatment.
+Type 1 Reaction
+• Also called a reversal reaction.
+• Existing skin lesions may become red, swollen, warm or tender.
+• Nerve inflammation may occur.
+• Nerve pain or tenderness may occur.
+• Loss of nerve function can worsen during a reaction.
+Type 2 Reaction
+• Also called erythema nodosum leprosum (ENL).
+• More commonly associated with multibacillary disease.
+• May produce tender skin nodules.
+• Fever may occur.
+• Joint symptoms may occur.
+• Nerve involvement may worsen.
+12. Complications
+Untreated or inadequately managed leprosy may result in:
+• Permanent nerve damage.
+• Loss of sensation.
+• Muscle weakness.
+• Paralysis.
+• Hand deformity.
+• Foot deformity.
+• Ulcers.
+• Eye complications.
+• Permanent disability.
+13. Disability Prevention
+NLEP emphasizes:
+• Early detection.
+• Early initiation of treatment.
+• Monitoring of nerve function.
+• Prevention of disability.
+• Medical rehabilitation.
+• Management of complications.
+• Reconstructive surgery for selected cases requiring specialized care.
+14. Prevention and Control
+Important programme strategies include:
+• Early detection of new cases.
+• Complete treatment.
+• Household contact surveys.
+• Contact screening.
+• Post-exposure prophylaxis for eligible contacts.
+• Health education.
+• Community awareness.
+• Reduction of stigma and discrimination.
+• Surveillance and reporting.
+• Disability prevention and rehabilitation.
+15. When to Seek Medical Evaluation
+Medical evaluation is recommended when a person develops:
+• A persistent pale or reddish skin patch with reduced sensation.
+• Numbness.
+• Loss of sensation in the hands or feet.
+• Unexplained weakness of the hands or feet.
+• Thickened or painful peripheral nerves.
+• Recurrent painless injuries or ulcers associated with loss of sensation.
+• New deformity of the hands, feet or eyes.
+16. Key Public-Health Message
+• Leprosy is curable.
+• Early diagnosis helps prevent nerve damage and disability.
+• Treatment is available free of cost through public health facilities under NLEP.
+• Persons affected by leprosy should not be stigmatized or discriminated against.
+17. Quick Fact Sheet
+Field Information
+Disease Leprosy
+Causative organism Mycobacterium leprae
+Main organs affected Skin and peripheral nerves
+Major clinical signs Skin lesions with sensory loss and peripheral nerve involvement
+Classification Paucibacillary and Multibacillary
+Current NLEP MDT Rifampicin + Dapsone + Clofazimine
+PB treatment
+6 months
+duration
+MB treatment
+12 months
+duration
+Major complication Permanent nerve damage and disability
+Early detection, treatment, contact measures and disability
+Prevention focus
+prevention
+National programme National Leprosy Eradication Programme
+Official Reference
+Ministry of Health & Family Welfare, Government of India — Directorate General of
+Health Services, National Leprosy Eradication Programme (NLEP).
+10. CHOLERA
+1. Disease Name
+Cholera
+2. Source
+National Centre for Disease Control (NCDC), Ministry of Health & Family Welfare,
+Government of India
+3. Overview
+• Cholera is an acute enteric infection.
+• It is caused by Vibrio cholerae.
+• Infection occurs through ingestion of contaminated food or water.
+• Cholera is strongly associated with inadequate sanitation and unsafe water.
+• Severe cholera can cause sudden, profuse watery diarrhoea.
+• Severe fluid loss can lead to dehydration and death.
+• Outbreaks can spread rapidly because of the short incubation period.
+• With appropriate and timely treatment, cholera can be successfully managed.
+4. Causative Organism
+• Vibrio cholerae is the causative bacterium.
+• Infection occurs when the organism is ingested through contaminated food or
+water.
+5. Transmission
+• Cholera is transmitted mainly through contaminated water.
+• Cholera can also be transmitted through contaminated food.
+• Faecal contamination of drinking-water sources is an important route of
+transmission.
+• Poor sanitation increases transmission.
+• Unsafe food preparation and handling can contribute to spread.
+• Flooding can increase the risk of contamination of drinking-water sources.
+• Population displacement and overcrowding can increase outbreak risk.
+6. Incubation Period
+• The incubation period can be very short.
+• NCDC material describes an incubation period ranging from approximately 2
+hours to 5 days.
+• The short incubation period can contribute to rapid outbreak expansion.
+7. Symptoms
+Main symptom
+• Acute watery diarrhoea.
+Characteristic severe presentation
+• Profuse watery diarrhoea.
+• Rice-water stools may occur.
+• Vomiting may occur.
+• Rapid loss of body fluids may occur.
+Severe disease
+• Severe dehydration.
+• Weakness.
+• Circulatory compromise.
+• Death can occur rapidly if severe dehydration is not treated.
+NCDC identifies profuse diarrhoea with rice-water stools as a clinical pattern that
+should raise suspicion of cholera.
+8. Asymptomatic Infection
+• A substantial proportion of people infected with cholera may not develop
+symptoms.
+• Asymptomatic infected individuals can still contribute to environmental
+contamination through shedding of the organism in faeces.
+9. Clinical Suspicion
+Cholera should be considered when a person has:
+• Profuse acute watery diarrhoea.
+• Rice-water stools.
+• Vomiting associated with severe diarrhoea.
+• Rapid development of dehydration.
+• A compatible illness during a known or suspected outbreak.
+• A history of exposure to potentially contaminated water or food.
+10. Major Complication
+The major immediate complication of severe cholera is:
+Rapid dehydration due to large-volume fluid loss.
+Severe dehydration can progress to:
+• Circulatory failure.
+• Shock.
+• Organ dysfunction.
+• Death.
+11. Treatment
+Rehydration
+• Rehydration is essential.
+• Oral rehydration is used when the patient can drink adequately.
+• Intravenous fluid replacement is required when dehydration is severe or oral
+replacement is inadequate.
+Antibiotic therapy
+• Antibiotics are used as adjunctive therapy in appropriate cases.
+• NCDC's National Treatment Guidelines list doxycycline as a first-line option for
+adults in the cited treatment guidance.
+• Azithromycin is listed for children and pregnant women in the cited guideline.
+• Alternative antibiotic options are also provided in the NCDC guideline.
+• Antibiotic selection should follow current clinical guidance and patient-specific
+considerations.
+Treatment principle
+Replace fluid and electrolytes first and rapidly.
+12. Outbreak Management
+NCDC identifies the following important outbreak-control measures:
+• Epidemiological investigation.
+• Establishment of cholera treatment centres/units where required.
+• Appropriate isolation facilities for seriously ill patients.
+• Provision of safe drinking water.
+• Provision of safe food.
+• Improvement of sanitation.
+• Proper disposal of human waste and sewage.
+• Appropriate disinfection.
+• Health education.
+• Surveillance and monitoring.
+13. Prevention
+Safe Water
+• Drink water from a safe source.
+• Disinfect drinking water when contamination is suspected.
+• During flood situations, appropriate water disinfection and chlorination are
+important.
+Food Safety
+• Cook food thoroughly.
+• Reheat food thoroughly when required.
+• Eat freshly prepared hot food where possible.
+• Boil milk before drinking.
+• Avoid uncooked food from unsafe sources.
+• Avoid ice from unreliable sources.
+Hand Hygiene
+• Wash hands after contact with faecal matter.
+• Wash hands before preparing food.
+• Wash hands before eating.
+Sanitation
+• Dispose of human excreta safely.
+• Prevent faecal contamination of drinking-water sources.
+• Maintain proper sanitation facilities.
+14. Vaccination
+• Cholera vaccines may be used as an additional public-health measure in
+appropriate settings.
+• Vaccination should not replace safe water, sanitation, hygiene and appropriate
+outbreak-control measures.
+• Mass chemoprophylaxis is not recommended as a general strategy for
+controlling cholera outbreaks according to the NCDC cholera guidance.
+15. High-Risk Situations
+Risk increases with:
+• Unsafe drinking water.
+• Poor sanitation.
+• Flooding.
+• Population displacement.
+• Crowding.
+• Unsafe food handling.
+• Disruption of water and sanitation infrastructure.
+16. When to Seek Immediate Medical Care
+Immediate medical assessment is required for:
+• Profuse watery diarrhoea.
+• Repeated vomiting.
+• Signs of dehydration.
+• Severe weakness.
+• Dizziness or collapse.
+• Reduced urine output.
+• Rapid worsening of diarrhoea.
+17. Key Public-Health Message
+• Cholera is preventable and treatable.
+• Rapid rehydration is the most important component of management.
+• Safe drinking water, sanitation and hygiene are central to prevention.
+• Suspected severe cholera should be treated urgently.
+18. Quick Fact Sheet
+Field Information
+Disease Cholera
+Causative organism Vibrio cholerae
+Main transmission Contaminated food or water
+Main symptom Acute watery diarrhoea
+Characteristic severe
+Rice-water stool
+stool
+Major complication Severe dehydration
+Incubation Approximately 2 hours–5 days
+Main treatment Rapid rehydration
+Severe dehydration Intravenous fluid replacement
+Antibiotics Adjunctive treatment in appropriate cases
+Prevention Safe water, sanitation, hygiene and food safety
+Surveillance, treatment centres, safe water, sanitation and
+Outbreak control
+health education
+Official References
+National Centre for Disease Control (NCDC), Ministry of Health & Family Welfare,
+Government of India — National Treatment Guidelines for Antimicrobial Use in
+Infectious Diseases.
+NCDC — “Cholera: A Continuing Challenge to Public Health.”
+11. JAPANESE ENCEPHALITIS
+1. Disease Name
+Japanese Encephalitis (JE)
+2. Source
+National Centre for Disease Control (NCDC), Ministry of Health & Family Welfare,
+Government of India
+3. Overview
+• Japanese encephalitis is a mosquito-borne viral disease.
+• It is a zoonotic disease.
+• Japanese encephalitis can cause inflammation of the brain.
+• Severe disease can cause neurological complications and death.
+• Japanese encephalitis is one of the causes of Acute Encephalitis Syndrome
+(AES).
+• NCDC maintains technical material covering diagnosis, treatment, surveillance
+and prevention of JE/AES.
+4. Causative Agent
+• Japanese encephalitis virus (JEV) is the causative virus.
+• JEV is an arbovirus.
+• The virus is maintained in an animal–mosquito transmission cycle.
+5. Vector and Transmission
+• Japanese encephalitis is transmitted by infected mosquitoes.
+• Culex mosquitoes are important vectors.
+• The transmission cycle involves mosquitoes and animal hosts.
+• Pigs and certain water birds are important amplifying/reservoir hosts in the
+natural cycle.
+• Humans can become infected after being bitten by an infected mosquito.
+• Human-to-human transmission through ordinary contact does not occur.
+Transmission Sequence
+Animal reservoir/amplifying host → infected mosquito → mosquito bite → human
+infection
+6. Epidemiological Pattern
+• JE transmission is associated with mosquito abundance.
+• Transmission may increase during and after the monsoon period in affected
+areas.
+• Environmental factors such as waterlogging and paddy cultivation can influence
+mosquito breeding.
+• Presence of pigs and migratory/water birds can be relevant to transmission
+ecology.
+7. Clinical Presentation
+Japanese encephalitis may present with:
+• Fever.
+• Headache.
+• Altered mental status.
+• Neurological symptoms.
+• Encephalitis.
+• Seizures.
+• Coma in severe disease.
+Not every person infected with JEV develops encephalitis.
+8. Acute Encephalitis Syndrome
+AES is a clinical syndrome rather than a single disease.
+• Japanese encephalitis is one of the important causes of AES.
+• Other infectious and non-infectious causes can also produce AES.
+• A patient with suspected encephalitis requires urgent clinical evaluation.
+• Laboratory investigation is important to identify the cause.
+9. Laboratory Diagnosis
+Serological testing
+• Detection of JEV-specific IgM antibodies by IgM-capture ELISA is an important
+diagnostic method.
+• JEV-specific IgM can be detected in cerebrospinal fluid (CSF) or serum.
+• Detection of JEV-specific IgM in CSF provides strong evidence of JE infection.
+• Serum results require careful interpretation in areas with high JE vaccination
+coverage because antibodies may reflect previous infection or vaccination.
+Molecular testing
+• Viral RNA or genomic sequences may be detected in appropriate clinical
+specimens.
+• Molecular testing can also be used for characterization of circulating virus
+genotypes.
+Virus isolation
+• Virus isolation can be performed using appropriate clinical or mosquito
+specimens in specialized laboratories.
+• Laboratory confirmation should be performed using appropriate validated
+methods.
+10. Treatment
+• There is no specific antiviral treatment for Japanese encephalitis.
+• Treatment is primarily supportive.
+• Early referral to a hospital is important.
+• Treatment should not be delayed while waiting for serological laboratory results
+in a clinically suspected encephalitis case.
+Supportive Management
+Important management principles include:
+• Maintaining fluid and electrolyte balance.
+• Maintaining a clear airway.
+• Providing oxygen when clinically required.
+• Managing convulsions appropriately.
+• Providing adequate nursing care.
+• Monitoring neurological status.
+• Providing hospital-level care for severe cases.
+11. Severe Disease
+Severe JE may lead to:
+• Severe encephalitis.
+• Seizures.
+• Altered consciousness.
+• Coma.
+• Neurological impairment.
+• Death.
+12. Prevention
+Vector Control
+NCDC identifies vector control as an important component of JE prevention.
+Measures include:
+• Reduction of mosquito breeding.
+• Vector surveillance.
+• Appropriate insecticide-based vector-control measures.
+• Environmental management.
+• Reduction of mosquito–human contact.
+Vaccination
+• Vaccination is an important component of the national JE prevention and control
+programme.
+• Vaccination strategies are implemented according to national programme
+recommendations and affected-area risk.
+13. Surveillance
+JE/AES surveillance includes:
+• Detection of suspected AES cases.
+• Laboratory investigation.
+• Confirmation of JE cases.
+• Monitoring of cases and deaths.
+• Monitoring of vaccination status.
+• Vector surveillance.
+• Assessment of environmental risk factors.
+• Monitoring of geographical and seasonal patterns.
+14. Risk Factors and Environmental Factors
+Factors associated with JE transmission include:
+• Increased mosquito density.
+• Waterlogged areas.
+• Paddy fields.
+• Presence of pig farms.
+• Presence of migratory birds.
+• Seasonal increases in mosquito populations.
+• Increased mosquito–human contact.
+15. When to Seek Urgent Medical Care
+Urgent medical care is required when fever is associated with:
+• Altered consciousness.
+• Confusion.
+• Severe headache.
+• Seizures.
+• Abnormal behaviour.
+• Neurological weakness.
+• Neck stiffness.
+• Coma.
+• Rapid neurological deterioration.
+16. Key Public-Health Message
+• Japanese encephalitis is a serious mosquito-borne disease.
+• Severe disease can cause encephalitis and neurological complications.
+• Suspected encephalitis requires early hospital referral.
+• There is no specific antiviral treatment for JE.
+• Prevention depends on vaccination, surveillance and mosquito-control
+measures.
+17. Quick Fact Sheet
+Field Information
+Disease Japanese Encephalitis
+Causative agent Japanese encephalitis virus
+Disease type Mosquito-borne viral disease
+Important vector Culex mosquitoes
+Main clinical syndrome Encephalitis
+Relationship to AES JE is one cause of AES
+Main symptoms Fever, headache and neurological manifestations
+Seizures, altered consciousness, coma and neurological
+Severe manifestations
+complications
+Specific antiviral
+None
+treatment
+Main treatment Supportive care
+Important diagnosis JEV-specific IgM by IgM-capture ELISA
+Prevention Vaccination and vector control
+Surveillance AES/JE case surveillance and laboratory confirmation
+Official References
+National Centre for Disease Control (NCDC), Ministry of Health & Family Welfare,
+Government of India — Manual of Zoonotic Diseases of Public Health Importance,
+Chapter: Japanese Encephalitis.
+NCDC/NCVBDC — Guidelines on Clinical Management of Japanese Encephalitis and
+Revised Treatment Guidelines of AES including JE.
+12. KALA-AZAR / VISCERAL LEISHMANIASIS
+1. Disease Name
+Kala-azar
+2. Medical Name
+Visceral Leishmaniasis (VL)
+3. Source
+Ministry of Health & Family Welfare, Government of India — National Center for
+Vector Borne Diseases Control (NCVBDC), Kala-azar Elimination Programme
+4. Overview
+• Kala-azar is also called visceral leishmaniasis.
+• It is an infectious disease caused by Leishmania parasites.
+• The disease is transmitted through the bite of an infected sandfly.
+• Kala-azar primarily affects the internal organs and reticuloendothelial system.
+• The disease commonly presents with prolonged fever, splenomegaly and weight
+loss.
+• Untreated kala-azar can be fatal.
+• Kala-azar is a major target of the national elimination programme.
+5. Causative Agent
+• Kala-azar is caused by Leishmania parasites.
+• The parasite responsible for visceral leishmaniasis belongs to the Leishmania
+donovani complex in the Indian subcontinent.
+6. Vector
+• Kala-azar is transmitted by infected female sandflies.
+• Sandflies acquire the parasite while feeding on an infected host.
+• An infected sandfly can transmit the parasite during a subsequent blood meal.
+Transmission Sequence
+Infected host → sandfly acquires parasite → parasite develops in sandfly → infected
+sandfly bites human → human infection
+7. Main Symptoms
+The main clinical features include:
+• Prolonged fever.
+• Irregular fever.
+• Weight loss.
+• Enlarged spleen.
+• Enlarged liver.
+• Weakness.
+• Anaemia.
+• Progressive deterioration in untreated disease.
+NCVBDC programme material identifies prolonged fever, splenomegaly and weight loss
+as the major clinical features of kala-azar.
+8. Suspected Case
+A kala-azar suspect is generally identified when a person from an endemic area has:
+• Fever for more than two weeks.
+• Enlarged spleen.
+• Relevant epidemiological exposure.
+• Lack of response to an appropriate course of antimalarial treatment when
+malaria has been considered.
+The national programme uses a standardized clinical case definition before diagnostic
+testing.
+9. Diagnosis
+Rapid Diagnostic Test
+• A quality-assured rK39-based rapid diagnostic test (RDT) is used in the
+programme for appropriate suspected cases.
+• The test detects antibodies associated with visceral leishmaniasis.
+• The rK39 test is used as an important field-level diagnostic tool.
+Parasitological Confirmation
+Parasitological confirmation can involve detection of the parasite in appropriate
+specimens.
+Possible specimens include:
+• Bone marrow aspirate.
+• Splenic aspirate.
+• Other appropriate tissue/material according to clinical and laboratory facilities.
+• Parasitological testing should be performed by appropriately trained personnel
+at suitable facilities.
+10. Important Diagnostic Consideration
+• rK39-based testing should be used within the appropriate clinical case
+definition.
+• A positive antibody test should be interpreted in the appropriate clinical and
+epidemiological context.
+• Special situations such as relapse, reinfection and HIV–VL co-infection require
+appropriate specialist evaluation.
+• Patients with high clinical suspicion and a negative rapid test may require further
+diagnostic evaluation.
+11. Treatment
+• Kala-azar requires specific anti-leishmanial treatment.
+• The national programme has introduced treatment regimens based on effective
+anti-leishmanial medicines.
+• The NCVBDC operational guidelines identify liposomal amphotericin B as an
+important treatment option.
+• Other treatment options described in programme guidelines include:
+o Miltefosine.
+o Amphotericin B.
+o Combination treatment with appropriate anti-leishmanial medicines.
+• Treatment selection depends on the national programme protocol, clinical
+condition and relevant patient factors.
+12. Treatment Follow-up
+Treatment outcomes should be monitored.
+The kala-azar elimination programme distinguishes treatment outcomes based on:
+• Initial outcome at completion of drug treatment.
+• Final outcome during subsequent follow-up.
+Patients should remain under appropriate follow-up after treatment to identify
+treatment failure or relapse.
+13. Post-Kala-Azar Dermal Leishmaniasis (PKDL)
+• PKDL is a dermal manifestation that can occur after visceral leishmaniasis.
+• It produces skin manifestations.
+• PKDL may resemble other skin diseases.
+• PKDL can sometimes resemble leprosy.
+• Identification and treatment of PKDL are important for the elimination
+programme because affected individuals can contribute to parasite
+transmission.
+• NCVBDC provides specific guidelines for PKDL diagnosis and treatment.
+14. Complications
+Untreated or inadequately treated kala-azar may lead to:
+• Progressive weakness.
+• Severe wasting and weight loss.
+• Anaemia.
+• Enlargement of the spleen and liver.
+• Severe systemic illness.
+• Death.
+Kala-azar is considered potentially fatal when untreated.
+15. Prevention and Control
+Early Case Detection
+• Active case search is used in programme areas.
+• Passive case detection occurs through health facilities.
+• Suspected cases are evaluated and tested promptly.
+• Early diagnosis reduces the period during which untreated infection can
+contribute to transmission.
+Treatment
+• Confirmed cases should receive appropriate complete treatment.
+• Treatment outcomes should be monitored.
+Vector Control
+Integrated vector management is an important component of the elimination
+programme.
+Measures include:
+• Indoor residual spraying where indicated.
+• Appropriate insecticide use.
+• Vector surveillance.
+• Reduction of human–sandfly contact.
+• Environmental measures where appropriate.
+• Monitoring of vector density and transmission risk.
+16. Surveillance
+Kala-azar surveillance includes:
+• Passive case detection.
+• Active case search.
+• Reporting of kala-azar cases.
+• Reporting of PKDL cases.
+• Vector surveillance.
+• Monitoring of disease trends.
+• Mapping of affected areas.
+• Use of surveillance information for planning vector-control activities.
+17. Risk Factors
+Risk of kala-azar is associated with:
+• Residence in endemic areas.
+• Exposure to infected sandflies.
+• Conditions that increase human–vector contact.
+• Poverty and poor living conditions.
+• Environmental conditions favourable to sandfly transmission.
+18. When to Seek Medical Evaluation
+Medical evaluation is recommended for a person from an endemic area who develops:
+• Fever lasting more than two weeks.
+• Enlarged spleen.
+• Unexplained weight loss.
+• Persistent weakness.
+• Anaemia or pallor.
+• Persistent fever that does not respond appropriately to treatment for other
+suspected causes.
+19. Key Public-Health Message
+• Kala-azar is a serious but treatable disease.
+• Early diagnosis and complete treatment are essential.
+• Sandfly control is an important part of prevention.
+• Active and passive surveillance support elimination.
+• PKDL detection and management are important components of the elimination
+programme.
+20. Quick Fact Sheet
+Field Information
+Disease Kala-azar
+Medical name Visceral leishmaniasis
+Causative agent Leishmania parasite
+Vector Infected female sandfly
+Main symptoms Prolonged fever, splenomegaly, weight loss
+Other manifestations Hepatomegaly, anaemia, weakness
+Field Information
+rK39-based rapid diagnostic test in appropriate
+Main diagnostic tool
+suspected cases
+Additional diagnosis Parasitological examination
+Main treatment principle Specific anti-leishmanial treatment
+Important medicines in Liposomal amphotericin B, miltefosine and
+programme guidelines amphotericin B
+Major complication Severe systemic disease and death if untreated
+Related condition Post-kala-azar dermal leishmaniasis (PKDL)
+Early diagnosis, complete treatment and vector
+Prevention
+control
+Integrated vector management and indoor residual
+Vector-control approach
+spraying where indicated
+Active search, passive detection, disease
+Surveillance
+surveillance and vector surveillance
+National programme Kala-azar Elimination Programme
+Official References
+National Center for Vector Borne Diseases Control (NCVBDC), Ministry of Health &
+Family Welfare, Government of India — Operational Guidelines on Kala-Azar (Visceral
+Leishmaniasis) Elimination in India, 2015.
+NCVBDC — Accelerated Plan for Kala-azar Elimination.
+NCVBDC — Kala-azar Elimination Programme guidelines and operational resources.

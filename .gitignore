@@ -1,0 +1,20 @@
+# Environment secrets - NEVER commit this
+.env
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Large generated data files (optional - see note below)
+data/processed/who_chunks_with_embeddings.json

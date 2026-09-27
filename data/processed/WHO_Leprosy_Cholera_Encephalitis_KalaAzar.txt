@@ -1,0 +1,528 @@
+9. LEPROSY
+Overview
+Leprosy, also known as Hansen disease, is a chronic infectious disease caused mainly
+by the bacterium Mycobacterium leprae. It primarily affects the skin and peripheral
+nerves, but can also affect the mucosa of the upper respiratory tract and the eyes.
+Leprosy is curable, and early diagnosis and treatment can prevent permanent disability.
+Key Facts
+• Causative organism: Mycobacterium leprae
+• Type: Chronic infectious disease
+• Mainly affects: Skin and peripheral nerves
+• It can also affect the eyes and upper respiratory tract.
+• Untreated disease can cause permanent nerve damage and disability.
+• Leprosy is curable with multidrug therapy (MDT).
+• The disease occurs in more than 120 countries.
+• India, Brazil and Indonesia continue to report large numbers of new cases.
+Transmission
+Leprosy is believed to spread mainly through respiratory droplets from the nose and
+mouth of an untreated person following prolonged and close contact.
+Important:
+Leprosy does NOT normally spread through casual contact, such as:
+• Shaking hands
+• Hugging
+• Sharing meals
+• Sitting next to someone
+Once effective treatment is started, the patient stops transmitting the disease.
+Transmission Flow
+Untreated infected person
+↓
+Prolonged, close contact
+↓
+Respiratory droplets
+↓
+Transmission to another susceptible person
+Symptoms and Signs
+Symptoms can develop slowly. The disease commonly affects the skin and peripheral
+nerves.
+Common signs include:
+• Pale or reddish skin patches
+• Loss or reduction of sensation in affected skin
+• Numbness
+• Thickened or enlarged peripheral nerves
+• Muscle weakness
+• Loss of sensation in the areas supplied by affected nerves
+• Eye involvement
+• Nasal/upper respiratory involvement
+If left untreated, nerve damage can result in deformity and permanent disability.
+Diagnosis
+WHO identifies three cardinal signs that can establish a diagnosis of leprosy:
+1. A definite loss of sensation in a pale or reddish skin patch.
+2. A thickened/enlarged peripheral nerve associated with loss of sensation and/or
+muscle weakness.
+3. Detection of leprosy bacilli in a slit-skin smear.
+Classification
+For treatment purposes, cases are classified as:
+Paucibacillary (PB)
+• 1–5 skin lesions
+• No bacilli demonstrated in the skin smear.
+Multibacillary (MB)
+• More than 5 skin lesions, or
+• Nerve involvement, or
+• Bacilli demonstrated in a slit-skin smear.
+Treatment
+Leprosy is curable.
+WHO recommends multidrug therapy (MDT) consisting of:
+• Dapsone
+• Rifampicin
+• Clofazimine
+Recommended duration:
+• PB: 6 months
+• MB: 12 months
+Early diagnosis and prompt treatment help prevent disability.
+Important
+Treatment should be taken under the guidance of a healthcare professional.
+Completing the prescribed treatment is essential.
+Prevention and Control
+Prevention focuses on early detection, treatment and contact screening.
+WHO recommends:
+• Early detection of cases
+• Prompt initiation of MDT
+• Screening of household, neighbourhood and social contacts
+• Single-dose rifampicin as post-exposure prophylaxis (SDR-PEP) for eligible
+contacts according to WHO recommendations.
+Complications
+Untreated leprosy can result in:
+• Permanent nerve damage
+• Muscle weakness
+• Loss of sensation
+• Deformities
+• Disability
+• Eye complications
+• Social stigma and discrimination.
+When to Seek Medical Care
+Medical evaluation should be sought when a person develops:
+• A persistent pale or reddish skin patch with reduced sensation
+• Numbness
+• Unexplained weakness of the hands or feet
+• Thickened nerves
+• Persistent skin changes associated with sensory loss
+• Eye symptoms associated with suspected leprosy
+Early diagnosis and treatment are important because nerve damage can become
+permanent.
+Quick Fact Sheet
+Feature Leprosy
+Other name Hansen disease
+Cause Mycobacterium leprae
+Main organs
+Skin and peripheral nerves
+affected
+Prolonged, close contact with untreated cases; respiratory
+Spread
+droplets
+Feature Leprosy
+Main signs Skin patches with sensory loss, nerve thickening, weakness
+Diagnosis Clinical signs ± slit-skin smear
+Treatment Multidrug therapy
+Main medicines Dapsone + Rifampicin + Clofazimine
+PB treatment 6 months
+MB treatment 12 months
+Prevention Early detection, treatment and contact screening
+Outcome Curable; early treatment helps prevent disability
+Official Reference
+World Health Organization (WHO). “Leprosy.” Updated 23 January 2026.
+10. CHOLERA
+Overview
+Cholera is an acute diarrhoeal infection caused by consuming food or water
+contaminated with the bacterium Vibrio cholerae.
+It can cause severe acute watery diarrhoea and rapid dehydration. Without treatment,
+severe cholera can become fatal within hours. However, most cases can be
+successfully treated with oral rehydration solution (ORS).
+Key Facts
+• Causative organism: Vibrio cholerae
+• Main route of transmission: Contaminated food or water
+• Main symptom: Acute watery diarrhoea
+• Severe disease can cause rapid dehydration.
+• Most infections produce no or mild symptoms.
+• Severe cases require rapid fluid replacement.
+• Safe water, sanitation and hygiene are central to prevention.
+• Oral cholera vaccines can help prevent and control outbreaks.
+Transmission
+Cholera is mainly transmitted through the faecal–oral route.
+Typical transmission cycle:
+Infected person → Faeces contaminate environment → Water/food contamination →
+Another person consumes contaminated water/food → Infection
+Poor sanitation and unsafe drinking water increase the risk of transmission.
+Symptoms
+Symptoms generally appear 12 hours to 5 days after infection.
+Common symptoms:
+• Acute watery diarrhoea
+• Vomiting
+• Rapid loss of body fluids
+• Dehydration
+• Weakness
+Most infected people develop no symptoms or only mild/moderate diarrhoea.
+A minority develop severe acute watery diarrhoea with life-threatening dehydration.
+Dehydration — Major Danger
+The most serious complication of cholera is severe dehydration caused by rapid fluid
+loss.
+Signs of significant dehydration can include:
+• Extreme thirst
+• Weakness
+• Reduced urination
+• Dry mouth
+• Sunken eyes
+• Dizziness
+• Rapid deterioration
+Severe dehydration is a medical emergency.
+Diagnosis
+Cholera should be suspected in a person with acute watery diarrhoea, particularly
+during an outbreak or in an area where cholera transmission is occurring.
+Laboratory testing can help confirm the presence of Vibrio cholerae.
+WHO emphasizes the importance of epidemiological and laboratory surveillance for
+detecting and monitoring outbreaks.
+Treatment
+The most important principle:
+Replace lost fluids immediately.
+Mild/Moderate illness
+• Oral rehydration solution (ORS) is the main treatment.
+• Continue appropriate feeding/nutrition.
+• Monitor for worsening dehydration.
+Severe illness
+Severe cases require:
+• Intravenous fluids
+• ORS
+• Antibiotics, when indicated
+Rapid treatment is critical because severe cholera can progress very quickly.
+Simple Treatment Flow
+Watery diarrhoea
+↓
+Assess dehydration
+↓
+No/severe dehydration → ORS and monitoring
+Severe dehydration → IV fluids + ORS + appropriate antibiotics
+Prevention
+Prevention focuses strongly on WASH — Water, Sanitation and Hygiene.
+Safe water
+• Drink safe water.
+• Use appropriately treated water.
+• Avoid potentially contaminated drinking water.
+Food safety
+• Eat properly prepared food.
+• Keep food protected from contamination.
+• Maintain hand hygiene before preparing or eating food.
+Sanitation
+• Use safe sanitation facilities.
+• Dispose of human waste safely.
+• Prevent contamination of drinking-water sources.
+Vaccination
+Oral cholera vaccines (OCV) can help prevent and control cholera, particularly as part
+of outbreak-control and high-risk-area strategies.
+Complications
+The major complication is:
+Severe dehydration → Shock → Death
+Other consequences may include:
+• Electrolyte disturbances
+• Kidney injury associated with severe dehydration
+• Circulatory collapse
+Rapid rehydration can prevent most deaths.
+When to Seek Urgent Care
+Seek medical attention immediately for:
+• Profuse watery diarrhoea
+• Repeated vomiting
+• Signs of dehydration
+• Severe weakness
+• Reduced urine
+• Dizziness or fainting
+• Rapid worsening of symptoms
+Quick Fact Sheet
+Feature Cholera
+Cause Vibrio cholerae
+Spread Contaminated food/water
+Incubation 12 hours–5 days
+Main symptom Acute watery diarrhoea
+Major danger Severe dehydration
+First-line treatment ORS
+Severe cases IV fluids + ORS + antibiotics
+Prevention Safe water, sanitation, hygiene
+Vaccine Oral cholera vaccine
+Outcome Highly treatable when treated promptly
+Official Reference
+World Health Organization (WHO). “Cholera.” 5 December 2024
+11. JAPANESE ENCEPHALITIS
+Overview
+Japanese encephalitis (JE) is a mosquito-borne viral disease that causes inflammation
+of the brain.
+It is caused by Japanese encephalitis virus (JEV), a flavivirus related to dengue, yellow
+fever and West Nile viruses.
+Most JEV infections are asymptomatic or cause only mild illness. However, a small
+proportion progress to severe encephalitis, which can cause permanent neurological
+disability or death.
+Key Facts
+• Causative agent: Japanese encephalitis virus (JEV)
+• Virus family: Flavivirus
+• Main vector: Culex mosquitoes
+• Mainly affects: Central nervous system/brain
+• Most infections are mild or asymptomatic.
+• Severe disease can cause encephalitis, seizures, paralysis and coma.
+• The majority of clinical cases occur in children below 15 years.
+• There is no specific antiviral cure.
+• Effective vaccines are available for prevention.
+Transmission
+JEV is mainly transmitted by infected Culex mosquitoes, particularly Culex
+tritaeniorhynchus.
+The virus circulates naturally between:
+Mosquitoes ↔ pigs / water birds
+Humans become infected when bitten by an infected mosquito.
+Humans generally do not develop enough virus in their blood to infect feeding
+mosquitoes, so humans are considered dead-end hosts.
+Transmission Flow
+JEV-infected mosquito
+↓
+Mosquito bites human
+↓
+JEV infection
+↓
+Usually asymptomatic/mild infection
+OR
+Severe encephalitis
+Symptoms
+The incubation period is approximately 4–14 days.
+Most infections produce:
+• No symptoms, or
+• Mild fever
+• Headache
+In children, gastrointestinal pain and vomiting may be important early symptoms.
+Severe Japanese Encephalitis
+Severe disease may develop rapidly.
+Warning symptoms include:
+• High fever
+• Severe headache
+• Neck stiffness
+• Disorientation
+• Altered consciousness
+• Seizures
+• Spastic paralysis
+• Coma
+Severe encephalitis is a medical emergency.
+Complications
+Among people who develop encephalitis:
+• Case-fatality can be as high as 30%.
+• Around 30–50% of survivors may develop permanent neurological, cognitive or
+behavioural problems.
+Possible long-term problems include:
+• Seizures
+• Hearing loss
+• Vision problems
+• Speech/language difficulties
+• Memory problems
+• Communication difficulties
+• Weakness or paralysis
+• Cognitive and behavioural changes.
+Diagnosis
+A person living in or travelling to a JE-endemic area who develops encephalitis may be
+suspected of having JE.
+Diagnosis involves:
+• Clinical assessment
+• Evaluation of neurological symptoms
+• Lumbar puncture, where appropriate
+• Laboratory confirmation
+WHO recommends detection of JEV-specific IgM antibodies using an IgM-capture
+ELISA.
+Testing of cerebrospinal fluid (CSF) is preferred because it can reduce false-positive
+results associated with previous infection or vaccination.
+Treatment
+There is currently no specific antiviral treatment for Japanese encephalitis.
+Treatment is supportive and focuses on:
+• Stabilizing the patient
+• Managing severe symptoms
+• Supporting breathing and circulation when necessary
+• Managing seizures and other complications
+• Monitoring neurological status
+• Providing appropriate intensive care when required.
+Important
+Suspected encephalitis requires urgent medical attention.
+Prevention
+1. Vaccination
+Vaccination is the most important preventive measure in populations where JE is a
+public-health concern.
+WHO recommends JE vaccination as part of national immunization programmes in
+areas where JE is recognized as a public-health priority.
+2. Mosquito-bite prevention
+• Use mosquito repellents.
+• Wear clothing that reduces exposed skin.
+• Use mosquito nets where appropriate.
+• Reduce mosquito breeding sites.
+• Take additional precautions in areas with active JE transmission.
+High-Risk Settings
+JE transmission is particularly associated with:
+• Rural and periurban environments
+• Areas with rice cultivation
+• Areas where pigs and water birds are present
+• Warm/tropical areas where mosquito populations increase
+Transmission may intensify during rainy seasons in tropical and subtropical regions.
+When to Seek Urgent Medical Attention
+Immediate medical care is required when fever is accompanied by:
+• Severe headache
+• Neck stiffness
+• Confusion/disorientation
+• Altered consciousness
+• Seizures
+• Weakness/paralysis
+• Coma
+• Rapid neurological deterioration
+Quick Fact Sheet
+Feature Japanese Encephalitis
+Cause Japanese encephalitis virus
+Virus type Flavivirus
+Vector Mainly Culex mosquitoes
+Incubation 4–14 days
+Main organ affected Brain/CNS
+Common mild symptoms Fever, headache
+Severe symptoms Encephalitis, seizures, paralysis, coma
+Specific antiviral treatment None
+Treatment Supportive care
+Feature Japanese Encephalitis
+Major prevention Vaccination + mosquito protection
+Severe disease fatality Up to 30%
+Long-term sequelae among survivors Approximately 30–50%
+Official Reference
+World Health Organization (WHO). “Japanese encephalitis.” 6 August 2024.
+12. KALA-AZAR (VISCERAL LEISHMANIASIS)
+Overview
+Kala-azar, also known as visceral leishmaniasis (VL), is the most serious form of
+leishmaniasis.
+It is caused by Leishmania parasites and transmitted through the bite of infected
+female phlebotomine sandflies.
+If untreated, visceral leishmaniasis can be fatal.
+Key Facts
+• Other name: Visceral leishmaniasis / Kala-azar
+• Cause: Leishmania parasites
+• Vector: Infected female phlebotomine sandflies
+• Main organs affected: Spleen, liver and blood-forming system
+• Major symptoms: Prolonged/irregular fever, weight loss, enlarged spleen and
+liver, anaemia
+• VL is the most severe form of leishmaniasis.
+• Untreated VL is potentially fatal.
+• It is treatable and curable when properly diagnosed and treated.
+Transmission
+The parasite is transmitted through the bite of an infected female sandfly.
+Transmission Flow
+Infected sandfly
+↓
+Bites human
+↓
+Leishmania parasites enter the body
+↓
+Parasites multiply in tissues
+↓
+Visceral leishmaniasis
+The disease is associated with factors such as:
+• Malnutrition
+• Population displacement
+• Poor housing
+• Weak immune systems
+• Poverty and limited access to healthcare.
+Symptoms
+The main clinical features of visceral leishmaniasis include:
+• Irregular bouts of fever
+• Significant weight loss
+• Enlarged spleen (splenomegaly)
+• Enlarged liver (hepatomegaly)
+• Anaemia
+• Weakness and fatigue
+Symptoms can develop gradually and may resemble other diseases, so appropriate
+medical evaluation is important.
+Why Kala-Azar Is Serious
+The disease affects internal organs and the body's immune and blood-forming systems.
+Without treatment, visceral leishmaniasis can become life-threatening.
+WHO states that VL is fatal in over 95% of cases when untreated.
+Diagnosis
+Diagnosis of visceral leishmaniasis involves combining:
+Clinical assessment
+Look for:
+• Prolonged/irregular fever
+• Weight loss
+• Enlarged spleen
+• Enlarged liver
+• Anaemia
+Laboratory confirmation
+WHO recommends combining clinical findings with:
+• Parasitological tests
+• Serological tests, including rapid diagnostic tests where appropriate.
+Simple Diagnostic Flow
+Prolonged fever + weight loss + enlarged spleen/liver
+↓
+Clinical suspicion of VL
+↓
+Parasitological / serological testing
+↓
+Diagnosis confirmed
+↓
+Prompt complete treatment
+Treatment
+Visceral leishmaniasis is treatable and curable, but patients require appropriate
+medical treatment.
+Treatment depends on factors including:
+• Geographic location
+• Leishmania species
+• Clinical condition
+• Coexisting diseases
+• Immune status.
+Important
+All patients diagnosed with visceral leishmaniasis require prompt and complete
+treatment.
+Treatment should be selected and administered by qualified healthcare professionals.
+Prevention
+Because transmission occurs through sandflies, prevention focuses on reducing
+exposure to infected sandflies.
+Personal protection
+• Use insect repellents.
+• Wear clothing that minimizes exposed skin.
+• Use protective nets where appropriate.
+• Reduce exposure to sandflies, particularly in endemic areas.
+Environmental control
+• Improve housing conditions.
+• Reduce sandfly breeding/resting environments where feasible.
+• Support community vector-control programmes.
+Public-health measures
+• Early detection
+• Prompt treatment
+• Surveillance
+• Vector control
+• Community awareness
+Risk Factors
+Risk is associated with:
+• Poverty
+• Malnutrition
+• Poor housing
+• Population displacement
+• Weak immune system
+• Living in or travelling to endemic areas.
+Complications
+Untreated or inadequately treated VL can lead to:
+• Severe anaemia
+• Progressive weakness and wasting
+• Severe systemic illness
+• Death
+A further complication can occur after treatment in some endemic settings: post-kalaazar dermal leishmaniasis (PKDL), which is characterized by skin manifestations
+following VL. This requires appropriate clinical evaluation and management.
+When to Seek Medical Care
+Medical evaluation should be sought when a person in or from an endemic area
+develops:
+• Persistent or prolonged fever
+• Unexplained weight loss
+• Enlarged abdomen due to an enlarged spleen/liver
+• Severe weakness
+• Pallor or suspected anaemia
+• Other symptoms suggestive of visceral leishmaniasis
+Early diagnosis and complete treatment are essential.
+Quick Fact Sheet
+Feature Kala-Azar / Visceral Leishmaniasis
+Cause Leishmania parasites
+Vector Female phlebotomine sandfly
+Main form Visceral leishmaniasis
+Main symptoms Fever, weight loss, enlarged spleen/liver, anaemia
+Feature Kala-Azar / Visceral Leishmaniasis
+Major organs
+Spleen, liver and blood-forming system
+affected
+Diagnosis Clinical + parasitological/serological testing
+Treatment Specific anti-leishmanial treatment
+Prognosis Curable with appropriate treatment
+Untreated disease Potentially fatal
+Prevention Sandfly-bite prevention + vector control
+Malnutrition, poverty, poor housing, displacement,
+Major risk factors
+immunosuppression
+Official Reference
+World Health Organization (WHO). “Leishmaniasis.”

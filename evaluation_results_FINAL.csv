@@ -1,0 +1,156 @@
+id,category,question,answer,top_relevance_score,num_sources_used,sources_summary,response_time_sec,manually_correct (fill in Y/N),manually_grounded (fill in Y/N),hallucination_observed (fill in Y/N),notes
+1,diabetes,What are the symptoms of diabetes?,"Based on the provided information, symptoms of diabetes can occur suddenly, though in type 2 diabetes, they can be mild and may take several years to be noticed. 
+
+Common symptoms include:
+* Feeling very thirsty
+* Needing to urinate more often than usual
+* Blurred vision
+* Feeling tired
+* Losing weight unintentionally
+
+Please remember to consult a qualified healthcare professional for personal medical advice — this is an information tool, not a diagnostic tool.",0.855,5,diabetes (Symptoms) [0.855]; diabetes (Type 2 diabetes) [0.777]; diabetes (Overview) [0.756]; STROKE (Control diabetes) [0.754]; diabetes (Diagnosis and treatment) [0.747],3.62,,,,
+2,diabetes,How can diabetes be prevented?,"To prevent or delay the onset of type 2 diabetes, you can adopt the following lifestyle habits:
+
+*   **Maintain a healthy body weight:** Aim to reach and keep a healthy weight.
+*   **Stay physically active:** Engage in at least 150 minutes of moderate exercise each week.
+*   **Eat a healthy diet:** Focus on eating healthily while avoiding sugar and saturated fat.
+*   **Avoid tobacco:** Do not smoke tobacco.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.852,5,diabetes (Prevention) [0.852]; diabetes (Key facts) [0.83]; diabetes (Diagnosis and treatment) [0.826]; diabetes (Overview) [0.824]; diabetes (Symptoms) [0.767],2.69,,,,
+3,stroke,What are the warning signs of a stroke?,"The warning signs of a stroke often happen suddenly and include the following:
+
+*   **Balance:** Sudden loss of balance, dizziness, or trouble walking.
+*   **Eyes:** Sudden difficulty seeing with one or both eyes.
+*   **Face:** Sudden drooping on one side of the face (you can test this by asking the person to smile).
+*   **Arms:** Sudden weakness or numbness in an arm or leg, especially on one side of the body (you can test this by asking the person to raise both arms to see if one drifts downward).
+*   **Speech:** Sudden confusion, difficulty speaking, or difficulty understanding speech (you can test this by asking the person to repeat a simple phrase to see if their speech is slurred or strange).
+*   **Headache:** A severe headache that occurs with no known cause.
+
+Additional signs include sudden numbness in the face, arm, or leg, or fainting and unconsciousness. 
+
+If you suspect someone is having a stroke, call 9-1-1 immediately. Do not drive to the hospital yourself; use an ambulance so medical personnel can begin treatment on the way. Note the time when symptoms first began, as this helps healthcare providers determine the best treatment. Symptoms that go away after a few minutes may indicate a ""mini-stroke"" (TIA), which is a serious medical emergency and a warning sign of a future stroke that requires immediate medical attention.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.861,5,Cardiovascular Disease (Symptoms of heart attacks and strokes) [0.861]; STROKE (Signs and symptoms) [0.845]; STROKE (B.E. F.A.S.T to identify stroke) [0.808]; STROKE (Overview) [0.804]; STROKE (Hemorrhagic stroke) [0.791],2.11,,,,
+4,asthma,What triggers asthma attacks?,"Asthma symptoms can be triggered by a variety of environmental factors and personal health conditions. Common triggers include:
+
+*   **Environmental allergens and irritants:** This includes house dust mites, moulds, animal fur, feathers, and pollen from grass and trees.
+*   **Air pollution and smoke:** Both indoor and outdoor air pollution, as well as exposure to tobacco smoke, fumes, and dust (including occupational exposure to chemicals), can trigger symptoms.
+*   **Physical and health-related factors:** Symptoms may worsen during exercise, when experiencing a cold, or due to changes in the weather.
+*   **Other irritants:** Strong soaps and perfumes can also act as triggers for some people.
+
+Because symptoms can vary from person to person and may be caused by other conditions, please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.825,5,asthma (Causes) [0.825]; asthma (Overview) [0.822]; asthma (Asthma) [0.822]; asthma (Symptoms) [0.804]; asthma (Impact) [0.765],2.82,,,,
+5,chikungunya,What are the symptoms of chikungunya?,"Chikungunya is typically characterized by a combination of fever, rash, and severe joint pain.
+
+Common symptoms include:
+
+*   **Fever:** Sudden onset of fever, sometimes accompanied by chills.
+*   **Joint Symptoms:** Severe pain, swelling, or stiffness. This often affects multiple joints on both sides of the body, particularly in the hands, wrists, ankles, and feet, though larger joints can also be involved. The pain can be severe enough to make walking difficult.
+*   **Skin Rash:** This may start as flushing on the face and trunk, potentially developing into a skin eruption that can involve the limbs, palms, and soles.
+*   **Other Symptoms:** Muscle pain, back pain, and shoulder discomfort.
+
+While joint pain usually improves within a few weeks, it can persist for months in some cases.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.859,5,9 NCDC Chickungunya guidelines (Clinical Features and Symptoms) [0.859]; 9 NCDC Chickungunya guidelines (When to Seek Medical Attention) [0.841]; 9 NCDC Chickungunya guidelines (Complications) [0.834]; 9 NCDC Chickungunya guidelines (Diagnosis) [0.834]; 9 NCDC Chickungunya guidelines (Treatment and Management) [0.829],2.23,,,,
+6,dengue,What are the symptoms of dengue fever?,"Dengue fever is an acute viral illness. You should suspect dengue if a person has a fever and has traveled to or lives in an area where dengue transmission occurs, along with at least two of the following symptoms:
+
+*   Nausea
+*   Vomiting
+*   Skin rash
+*   Muscle pain (myalgia)
+*   Headache
+*   Pain behind the eyes (retro-orbital pain)
+*   Joint pain (arthralgia)
+*   Hemorrhagic manifestations (bleeding)
+*   Fatigue and weakness
+
+Additionally, patients should be monitored for ""warning signs"" that require careful assessment, including:
+*   Abdominal pain or tenderness
+*   Persistent vomiting
+*   Fluid accumulation (such as swelling or fluid in the lungs)
+*   Mucosal bleeding (such as nosebleeds, gum bleeding, or blood in stool)
+*   Liver enlargement
+*   Signs of shock (such as a weak, rapid pulse; cold, clammy skin; or low blood pressure)
+
+Please consult a qualified healthcare professional for personal medical advice — this information is for educational purposes and is not a diagnostic tool.",0.904,5,NHP Dengue Custom Guidelines (Clinical Features and Symptoms) [0.904]; 12 ICMR STW Dengue (Simple Recognition Rule) [0.9]; 12 ICMR STW Dengue (Warning Signs) [0.894]; 12 ICMR STW Dengue (ICD-10 A90) [0.892]; 12 ICMR STW Dengue (Overview) [0.889],2.58,,,,
+7,dengue,How can dengue be prevented?,"To prevent dengue, you should focus on protecting yourself from mosquito bites and preventing mosquitoes from breeding.
+
+**Protecting yourself from mosquito bites:**
+*   Wear clothing that covers as much of your body as possible.
+*   Use mosquito repellents containing DEET, Picaridin, or IR3535.
+*   Use window screens to keep mosquitoes out of your home.
+*   If you sleep during the day, use mosquito nets (ideally sprayed with insect repellent).
+*   Use mosquito coils and vaporizers.
+
+**Preventing mosquito breeding:**
+*   Remove or dispose of solid waste and artificial containers that can hold water.
+*   On a weekly basis, cover, empty, and clean any containers used to store water at home.
+*   Apply appropriate insecticides to outdoor water storage containers.
+*   Implement practices to stop mosquitoes from accessing places where they lay eggs.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.876,5,dengue (Key facts) [0.876]; NHP Dengue Custom Guidelines (Treatment and Management) [0.869]; 12 ICMR STW Dengue (Important) [0.855]; NHP Dengue Custom Guidelines (Overview) [0.854]; dengue (Risk factors) [0.848],1.44,,,,
+8,hypertension,What causes high blood pressure?,"High blood pressure, or hypertension, is when the pressure in your blood vessels is consistently 140/90 mmHg or higher. While many people do not feel symptoms, several factors can increase the risk of developing the condition:
+
+*   **Age:** Being older increases your risk.
+*   **Genetics:** Family history plays a role.
+*   **Weight:** Being overweight or obese.
+*   **Physical activity:** Not being physically active.
+*   **Diet:** Eating a diet high in salt.
+*   **Lifestyle habits:** Drinking too much alcohol and using tobacco.
+*   **Other factors:** Managing other medical conditions, experiencing stress, and exposure to polluted air can also contribute to your risk.
+
+Because most people with hypertension do not experience symptoms, the only way to know if you have it is to have a health professional measure your blood pressure.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.822,5,hypertension (Complications of uncontrolled hypertension) [0.822]; hypertension (Overview) [0.805]; hypertension (Symptoms) [0.768]; hypertension (Treatment) [0.767]; hypertension (Prevention) [0.76],1.71,,,,
+9,malaria,How is malaria transmitted?,"Malaria is primarily transmitted to humans through the bite of an infected female *Anopheles* mosquito. 
+
+It does not spread from person to person through casual contact. However, in uncommon circumstances, it can also be transmitted through infected blood, such as through blood transfusions or contaminated needles.
+
+Please remember to consult a qualified healthcare professional for personal medical advice — this service is an information tool, not a diagnostic tool.",0.896,5,NHP Malaria Custom Guidelines (Malaria infection) [0.896]; NHP Malaria Custom Guidelines (Overview) [0.883]; malaria (Overview) [0.875]; malaria (P. vivax) [0.828]; NHP Malaria Custom Guidelines (Severe and Complicated Malaria) [0.817],15.59,,,,
+10,seasonal influenza,What are the symptoms of seasonal flu?,"Symptoms of seasonal influenza (flu) typically begin suddenly, usually about 2 days after being infected. 
+
+Common symptoms include:
+* **Fever** (sudden onset, typically measured at 100.4°F or higher)
+* **Cough** (often dry, can be severe, and may last for two weeks or more)
+* **Sore throat**
+* **Muscle, body, or joint aches**
+* **Headache**
+* **Fatigue and severe malaise** (extreme tiredness or feeling unwell, which can persist for more than two weeks)
+
+Other symptoms can include:
+* Runny or stuffy/blocked nose
+* Vomiting 
+* Diarrhea (particularly in children)
+
+For most uncomplicated cases, fever and body symptoms usually last about 3 days (though they can occasionally last 5–8 days), and full recovery generally takes 1 to 2 weeks or longer. 
+
+**When to seek urgent care:**
+Urgent medical attention is needed if flu symptoms are accompanied by warning signs such as difficulty breathing or breathlessness, severe or worsening illness, signs of complications (such as pneumonia or sepsis), or the worsening of an underlying chronic disease.
+
+***
+
+*Please note: This information is provided for educational purposes only. I am an information tool, not a diagnostic tool. Always consult a qualified healthcare professional for personal medical advice, diagnosis, or treatment.*",0.866,5,10 NCDC Seasonal Influenza (Typical onset Sudden) [0.866]; 10 NCDC Seasonal Influenza (Key Facts) [0.838]; 10 NCDC Seasonal Influenza (Overview) [0.822]; seasonal Influenza (Signs and symptoms) [0.788]; 10 NCDC Seasonal Influenza (Important Warning Signs) [0.787],6.97,,,,
+11,tuberculosis,How is TB treated?,"Tuberculosis (TB) is treated with a course of special antibiotics. 
+
+*   **Standard treatment:** The most common antibiotics used are rifampicin, isoniazid, pyrazinamide, and ethambutol. To be effective, these medications must be taken daily for 4 to 6 months.
+*   **Completing treatment:** It is very important to finish the full course of medication. Stopping early or without medical advice is dangerous because it can cause the TB bacteria to become resistant to the antibiotics, making the disease harder to treat.
+*   **Drug-resistant TB:** If the TB bacteria do not respond to standard drugs, it is called drug-resistant TB, which requires treatment with different types of medicine.
+*   **Preventive treatment:** If you are at risk, you may be prescribed TB preventive treatment (TPT) to stop an infection from developing into the disease. It is important to complete this full course if prescribed.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.842,5,tuberculosis (Treatment) [0.842]; tuberculosis (Overview) [0.841]; tuberculosis (Prevention) [0.825]; tuberculosis (Symptoms) [0.792]; tuberculosis (Diagnosis) [0.784],1.95,,,,
+12,typhoid,How can typhoid be prevented?,"Typhoid fever is a life-threatening infection caused by the *Salmonella* Typhi bacterium, which is usually spread through contaminated food or water. To help prevent the spread of typhoid, consider the following:
+
+*   **Vaccination:** The typhoid conjugate vaccine is recommended for children starting at 6 months of age and for adults up to 45 or 65 years old (depending on the specific vaccine). These vaccines are being introduced into childhood immunization programs in countries where typhoid is common.
+*   **Hygiene practices:** If you are being treated for typhoid, it is important to wash your hands with soap and water after using the bathroom to avoid spreading the bacteria to others.
+*   **Food safety:** If you are being treated for typhoid, avoid preparing or serving food for other people to lower the chance of passing the infection on to them.
+*   **Public health factors:** Because typhoid spreads in communities that lack access to safe drinking water or adequate sanitation, maintaining access to these resources is essential for prevention.
+
+Please consult a qualified healthcare professional for personal medical advice regarding vaccination or other preventative measures, as I am an information tool and not a diagnostic tool.",0.829,5,typhoid (Treatment) [0.829]; NHP Typhoid Custom Guidelines (Treatment and Management) [0.827]; typhoid (Overview) [0.827]; typhoid (Key facts) [0.807]; typhoid (Salmonella) [0.804],1.54,,,,
+13,off-topic,What is your favorite color?,"I can only help with questions related to public health, symptoms, diseases, prevention, or medical information. 
+
+Please remember to consult a qualified healthcare professional for personal medical advice, as I am an information tool, not a diagnostic tool.",0.532,5,Chronic Obstructive Pulmonary Disease (WHO response) [0.532]; LymphaticFilariasis HIV Hepatitis Depression (VIRAL HEPATITIS A/B/C) [0.525]; STROKE (What it is) [0.521]; 11 ICMR STW fever (ICD-10 R50) [0.517]; 12 ICMR STW Dengue (Dengue WITH Warning Signs) [0.517],5.72,,,,
+14,off-topic,Who created you?,"I apologize, but I can only help with questions related to public health, symptoms, diseases, prevention, or medical information.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.576,5,dengue (Aedes aegypti Aedes) [0.576]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.565]; Chronic Obstructive Pulmonary Disease (WHO response) [0.56]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.56]; chikungunya (Ae. aegypti) [0.552],0.84,,,,
+15,off-topic,Tell me a joke.,"I can only help with public-health-related questions, such as information on symptoms, diseases, or medical prevention.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.568,5,NHP Dengue Custom Guidelines (Severe Dengue) [0.568]; typhoid (Overview) [0.565]; typhoid (Symptoms) [0.562]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.561]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.561],1.24,,,,

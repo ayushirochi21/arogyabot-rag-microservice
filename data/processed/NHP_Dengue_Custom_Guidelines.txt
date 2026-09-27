@@ -1,0 +1,94 @@
+DENGUE
+Custom Study Summary based on Government of India guidance
+Overview
+Dengue is a mosquito-borne viral disease caused by dengue viruses and transmitted mainly by infected
+Aedes mosquitoes. The illness can range from mild fever to severe dengue, which may involve plasma
+leakage, severe bleeding, shock and organ impairment.
+Key Facts
+(cid:127) Causative agent: Dengue virus (DENV), with four serotypes: DENV-1, DENV-2, DENV-3 and DENV-4.
+(cid:127) Main vector: Aedes aegypti mosquito; other Aedes species may also transmit infection.
+(cid:127) Transmission: Primarily through the bite of an infected mosquito.
+(cid:127) Incubation period: Commonly about 4–10 days after an infected mosquito bite.
+(cid:127) Dengue may present as dengue fever, dengue with warning signs, or severe dengue.
+(cid:127) Early recognition of warning signs and appropriate fluid management are important in preventing
+complications.
+Transmission
+The usual transmission cycle is:
+Infected person fi Aedes mosquito fi mosquito becomes infected fi bite of another person fi
+Dengue infection
+(cid:127) Aedes mosquitoes are primarily daytime biters, with increased activity during early morning and late
+afternoon.
+(cid:127) An infected person can serve as a source of virus for mosquitoes during the viraemic phase.
+(cid:127) Because the same vectors can transmit other arboviral diseases, dengue symptoms may overlap with
+illnesses such as chikungunya.
+Clinical Features and Symptoms
+Dengue should be suspected in a person with acute fever, especially in areas where dengue transmission
+occurs. Common manifestations may include:
+(cid:127) High fever
+(cid:127) Severe headache
+(cid:127) Pain behind the eyes
+(cid:127) Muscle and joint pain
+(cid:127) Nausea and vomiting
+(cid:127) Skin rash
+(cid:127) Fatigue and weakness
+Warning Signs
+Warning signs usually require prompt medical assessment and close monitoring. Important warning signs
+include:
+(cid:127) Severe abdominal pain or persistent vomiting
+(cid:127) Clinical fluid accumulation
+(cid:127) Mucosal bleeding
+(cid:127) Lethargy or restlessness
+(cid:127) Liver enlargement
+(cid:127) Laboratory evidence such as increasing haematocrit with rapidly decreasing platelet count
+Severe Dengue
+Severe dengue is a potentially life-threatening condition. It may involve:
+(cid:127) Severe plasma leakage leading to shock or respiratory distress
+(cid:127) Severe bleeding
+(cid:127) Severe organ involvement, including liver, central nervous system or other organ impairment
+Diagnosis
+Diagnosis is based on clinical assessment together with appropriate laboratory testing. Tests may include:
+(cid:127) Detection of dengue viral antigen such as NS1 during the early phase
+(cid:127) Molecular testing such as RT-PCR where available
+(cid:127) Dengue-specific IgM antibody testing
+(cid:127) Other supportive laboratory investigations including complete blood count and haematocrit monitoring
+Treatment and Management
+There is no specific antiviral treatment for dengue. Management is mainly supportive and depends on the
+clinical severity and phase of illness.
+(cid:127) Adequate oral fluids may be advised for patients who can tolerate oral intake.
+(cid:127) Paracetamol may be used for fever as advised by a healthcare professional.
+(cid:127) Aspirin and other NSAIDs should generally be avoided because of bleeding risk.
+(cid:127) Patients with warning signs or severe dengue require urgent medical evaluation and appropriate fluid
+management.
+(cid:127) Severe dengue may require hospital admission, careful monitoring and management of shock, bleeding and
+organ dysfunction.
+Prevention and Control
+Dengue prevention focuses on avoiding mosquito bites and reducing mosquito breeding sites.
+Personal protection:
+(cid:127) Use mosquito repellents as appropriate.
+(cid:127) Wear clothing that reduces exposed skin.
+(cid:127) Use screens and other measures to prevent mosquito entry.
+(cid:127) Take precautions against mosquito bites during daytime as well.
+Source reduction:
+(cid:127) Do not allow water to stagnate in containers.
+(cid:127) Empty, clean and cover water-storage containers regularly.
+(cid:127) Discard or manage objects that collect rainwater.
+(cid:127) Maintain environmental cleanliness and support local vector-control activities.
+When to Seek Immediate Medical Attention
+(cid:127) Persistent vomiting or severe abdominal pain
+(cid:127) Bleeding from nose or gums, vomiting blood, or black stools
+(cid:127) Extreme weakness, restlessness or unusual drowsiness
+(cid:127) Difficulty breathing
+(cid:127) Cold or clammy skin, dizziness or fainting
+(cid:127) Reduced urine output or any rapid worsening after fever begins to subside
+Dengue: Quick Summary
+Cause: Dengue virus
+Spread: Infected Aedes mosquito bites
+Incubation: Commonly 4–10 days
+Main symptoms: Fever, headache, body aches, nausea and rash
+Warning signs: Abdominal pain, persistent vomiting, bleeding, lethargy and fluid accumulation
+Diagnosis: Clinical assessment with appropriate laboratory testing
+Treatment: Supportive care; urgent management for warning signs or severe dengue
+Prevention: Mosquito-bite protection and elimination of breeding sites
+Sources: National Guidelines for Clinical Management of Dengue Fever (2023), National Centre for Vector Borne Diseases Control
+(NCVBDC), Ministry of Health & Family Welfare, Government of India; NCVBDC Dengue Case Management guidance.
+Educational summary only. This document is not a substitute for professional medical advice or emergency care.

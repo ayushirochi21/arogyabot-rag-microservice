@@ -1,0 +1,97 @@
+TYPHOID FEVER
+Custom Study Summary with reference to National Health Portal (NHP) and Government public-health
+guidance
+Overview
+Typhoid fever is a serious systemic bacterial infection caused by Salmonella enterica serovar Typhi,
+commonly known as Salmonella Typhi. It is mainly transmitted through ingestion of food or water
+contaminated with human faecal matter containing the bacteria. The disease is closely associated with
+inadequate sanitation, unsafe drinking water and poor food hygiene.
+Key Facts
+(cid:127) Causative agent: Salmonella Typhi.
+(cid:127) Type of disease: Bacterial systemic infection, also known as enteric fever.
+(cid:127) Reservoir: Humans are the only natural reservoir.
+(cid:127) Main mode of spread: Contaminated food and drinking water.
+(cid:127) Incubation period: Symptoms commonly develop about 6–30 days after exposure.
+(cid:127) Untreated infection may lead to serious intestinal and systemic complications.
+Transmission
+The usual transmission cycle is:
+Infected person/carrier fi bacteria shed in faeces fi contamination of food or water fi ingestion by
+another person fi Typhoid infection
+(cid:127) Infected individuals may contaminate food or water through inadequate hand hygiene.
+(cid:127) Chronic carriers can continue to shed bacteria even after recovery.
+(cid:127) Poor sanitation and unsafe water supplies increase the risk of community transmission.
+Clinical Features and Symptoms
+Typhoid often has an insidious onset and may initially resemble other febrile illnesses. Common symptoms
+include:
+(cid:127) Prolonged or sustained fever
+(cid:127) Headache
+(cid:127) Fatigue and weakness
+(cid:127) Loss of appetite
+(cid:127) Nausea
+(cid:127) Abdominal pain
+(cid:127) Constipation or diarrhoea
+(cid:127) Dry cough in some patients
+(cid:127) Rose-coloured spots or rash in some cases
+Clinical Progression
+The illness may progress gradually over several days. Persistent fever and systemic symptoms can be
+accompanied by gastrointestinal manifestations. Without appropriate treatment, prolonged infection may
+increase the risk of complications.
+Complications
+Severe or untreated typhoid can cause serious complications, including:
+(cid:127) Intestinal bleeding
+(cid:127) Intestinal perforation and peritonitis
+(cid:127) Severe systemic toxicity
+(cid:127) Encephalopathy or altered mental status
+(cid:127) Myocarditis or other organ involvement
+Diagnosis
+Diagnosis should be based on clinical assessment together with laboratory confirmation. Diagnostic
+approaches may include:
+(cid:127) Blood culture, particularly during appropriate stages of illness
+(cid:127) Culture of other relevant clinical specimens where indicated
+(cid:127) Antigen or serological tests as supportive methods
+(cid:127) Antimicrobial susceptibility testing to guide antibiotic selection
+Treatment and Management
+Typhoid fever is treated with appropriate antibiotics prescribed by a qualified healthcare professional.
+Antibiotic resistance can affect treatment choices, making laboratory confirmation and local treatment
+guidance important.
+(cid:127) Seek medical assessment for prolonged fever or suspected typhoid.
+(cid:127) Complete the entire prescribed antibiotic course.
+(cid:127) Maintain adequate hydration and nutritional support as advised.
+(cid:127) Do not self-medicate with antibiotics.
+(cid:127) Follow-up may be required to identify persistent carriage or treatment failure.
+Prevention and Control
+Prevention primarily depends on safe water, sanitation, food hygiene and vaccination where recommended.
+Safe food and water:
+(cid:127) Drink safe, treated or boiled water.
+(cid:127) Eat freshly cooked and hygienically prepared food.
+(cid:127) Wash fruits and vegetables with safe water.
+(cid:127) Avoid food and beverages from unhygienic sources.
+Personal and community hygiene:
+(cid:127) Wash hands thoroughly with soap, especially after using the toilet and before handling food.
+(cid:127) Use sanitary toilets and ensure safe disposal of human waste.
+(cid:127) Promote hygiene among food handlers.
+(cid:127) Support improvements in sanitation and safe water supply.
+Vaccination:
+(cid:127) Typhoid vaccines are available and may be recommended for people at risk according to public-health
+guidance.
+(cid:127) Vaccination complements, but does not replace, safe food, water and hygiene practices.
+When to Seek Medical Attention
+(cid:127) Persistent or prolonged fever
+(cid:127) Severe abdominal pain
+(cid:127) Persistent vomiting or inability to maintain fluids
+(cid:127) Blood in stool or black stools
+(cid:127) Confusion, extreme weakness or altered consciousness
+(cid:127) Rapid worsening of symptoms
+Typhoid: Quick Summary
+Cause: Salmonella Typhi
+Spread: Contaminated food and water via the faecal-oral route
+Incubation: Commonly 6–30 days
+Main symptoms: Prolonged fever, headache, weakness, abdominal symptoms and altered bowel habits
+Diagnosis: Clinical assessment with laboratory testing, especially culture where appropriate
+Treatment: Appropriate prescribed antibiotics and supportive care
+Prevention: Safe water, sanitation, hand hygiene, food safety and vaccination
+Complications: Intestinal bleeding/perforation and severe systemic illness in untreated cases
+References: National Health Portal (NHP), Ministry of Health & Family Welfare, Government of India; Government of India
+public-health resources on enteric fever and standard treatment guidance. Content was also cross-checked against WHO typhoid
+facts for clinical terminology.
+Educational study summary only. This document is not a substitute for professional medical diagnosis or treatment.

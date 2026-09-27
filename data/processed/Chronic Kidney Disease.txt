@@ -1,0 +1,108 @@
+Chronic Kidney Disease
+SOURCE-NCDC
+Chronic kidney disease (CKD) is a condition in which the kidneys are damaged or cannot filter blood
+as well as healthy kidneys. Because of this, excess fluid and waste from the blood remain in the body
+and may cause other health problems.
+Fast Stats • 30 million people or 15% of US adults are estimated to have CKD.* • 48% of those with
+severely reduced kidney function but not on dialysis are not aware of having CKD. • Most (96%)
+people with kidney damage or mildly reduced kidney function are not aware of having CKD.
+Risk Factors for Developing CKD Adults with diabetes, high blood pressure, or both have a higher risk
+of developing CKD than those without these diseases. Other risk factors for CKD include heart
+disease, obesity, and a family history of CKD.
+Symptoms, Testing, and Treatment • People with CKD may not feel ill or notice any symptoms. The
+only way to find out for sure if you have CKD is through specific blood and urine tests. These tests
+include measurement of both the creatinine level in the blood and protein in the urine. • Once
+detected, CKD may be addressed through lifestyle changes, including making healthier choices about
+what you eat and drink, and can often be treated with medications. These approaches and
+treatments may keep CKD from getting worse and may prevent additional health problems such as
+heart disease. • People with diabetes or high blood pressure who are diagnosed with CKD should talk
+to their doctor about treating these conditions to keep their blood sugar and blood pressure under
+control and lower their risk for kidney failure.
+Health Problems Caused and Affected by CKD Kidney Failure • Kidney disease usually gets worse over
+time though treatment has been shown to slow progression. When the kidneys stop working, dialysis
+or kidney transplant is needed for survival. Kidney failure treated with dialysis or kidney transplant is
+called end-stage renal disease (ESRD). Not all patients with kidney disease progress to kidney failure
+and, in some patients, kidney disease progresses to kidney failure even with proper treatment.
+Heart Disease and Stroke • Having kidney disease increases the chances of also having heart disease
+and stroke. • Managing blood pressure, blood sugar, and cholesterol levels—all risk factors for heart
+disease and stroke—is more difficult, but much more important in the presence of CKD. Other Health
+Consequences of CKD • Anemia or low number of red blood cells can cause fatigue and weakness. •
+Infections can occur because of a weakened immune system. • Low calcium levels and high
+phosphorus levels in the blood can cause bone problems. • High potassium levels in the blood
+(hyperkalemia) can cause an irregular or abnormal heartbeat. • Loss of appetite or eating less. •
+Excess fluids in the body causing high blood pressure, swelling in the legs, or shortness of breath
+because of fluid in the lungs (a condition known as pulmonary edema). • Depression or lower quality
+of life. Risk of Dying Premature death from both heart disease and from all causes is higher in adults
+with CKD compared with adults without CKD.
+Opportunities to Prevent CKD and Lower the Risk for Kidney Failure • Control risk factors for CKD that
+can be modified. – High blood pressure. – High blood sugar levels. • Test for kidney disease among
+people who are at high risk for developing CKD. – Testing people with diabetes or with high blood
+pressure has been shown to be a cost-effective way of identifying people with CKD. • Manage CKD. –
+Make lifestyle changes (e.g., healthy eating) to prevent more kidney damage. – Use medications
+(e.g., drugs to lower blood pressure) to slow CKD progression. – Avoid conditions or exposures that
+can harm the kidneys or cause a sudden drop in kidney function (called acute kidney injury) and may
+quicken CKD progression. • Kidney infections. • Medications.  Over-the-counter pain medicines like
+ibuprofen and naproxen.
+ Certain antibiotics. • Herbal supplements. • Dyes that are used to make the blood vessels or organs
+visible on X-rays or other imaging tests
+SOURCE-WHO
+• Kidney disease includes acute kidney injury (AKI) and chronic kidney disease (CKD).
+• Simple blood (serum creatinine) and urine tests (for albuminuria) used in primary health care
+can detect CKD.
+• An estimated 674 million people have chronic kidney disease worldwide; most reside in lowand middle-income countries.
+• The most severe form of CKD is kidney failure, which requires dialysis or kidney
+transplantation to sustain life.
+• The global burden of acute kidney injury (AKI) is unknown.
+Overview
+Kidney disease occurs when the kidneys can no longer remove waste and excess fluid from the
+bloodstream normally. Acute kidney injury (AKI) has an abrupt onset and is often reversible with
+timely intervention. In contrast, chronic kidney disease (CKD) progresses gradually and is frequently
+irreversible, with severity ranging from mild dysfunction to kidney failure. People with kidney failure
+typically require dialysis or kidney transplantation to survive.
+Kidney disease causes substantial morbidity, disability, and premature mortality, in part because it
+causes and is caused by cardiovascular disease. The burden of kidney disease is rising in parallel with
+diabetes, hypertension and population ageing. Global inequities in access to testing, essential
+medications, health- care workers and kidney replacement therapies are a key global challenge and
+contribute to millions of preventable deaths each year.
+Symptoms
+Kidney disease is often asymptomatic until late stages, which is why regular testing is important for
+people at risk. In advanced or severe kidney disease, symptoms may include fatigue, breathlessness,
+generalized itchiness, leg swelling, muscle cramps, nausea or vomiting.
+Chronic kidney disease (CKD)
+CKD has a wide range of causes, including diabetes, hypertension, cardiovascular disease,
+glomerulonephritis (inflammation of the kidney's filtering units), some genetic conditions, certain
+drugs and toxins and infections. In low- and middle-income countries (LMICs), a substantial
+proportion of people with CKD do not have a known exposure to known risk factors.
+CKD is diagnosed by using serum creatinine results to estimate glomerular filtration rate (eGFR); low
+eGFR suggests the presence of kidney disease. Two values of eGFR <60 ml/min/1.73m2 obtained at
+least 90 days apart indicate that CKD is present. Persistently elevated urinary albumin excretion
+(“albuminuria”) is identified by urinary albumin-creatinine ratio (ACR) of >3 mg/mmol (30 mg/g) and
+also indicates the presence of CKD.
+The risk of developing CKD can be reduced by a healthy lifestyle, including regular physical activity,
+maintaining a healthy body weight and refraining from tobacco use. In people with diabetes,
+hypertension and cardiovascular disease, good control of blood pressure, blood glucose and blood
+lipids, alongside these lifestyle measures, can further help to reduce the risk of developing CKD.
+Integrating kidney health into primary care is essential for early diagnosis and timely treatment.
+Routine testing (“case-finding”) with eGFR and albuminuria can be arranged in primary care for
+people with hypertension, diabetes and cardiovascular disease, aiming to diagnose and treat kidney
+disease at an early stage.
+The management of CKD focuses on slowing progression, reducing cardiovascular risk, and
+preventing complications of advanced kidney disease.
+For treatment of kidney failure, kidney replacement therapy (dialysis or kidney transplantation) may
+be required.
+Where transplantation or dialysis is unavailable, unaffordable, or not desired by the individual,
+conservative kidney management provides supportive care focused on symptom control and quality
+of life.
+Acute kidney injury (AKI)
+AKI represents a deterioration of kidney function over hours to days and can be reversible with
+timely care. Although AKI and CKD differ in onset and reversibility, they are closely connected: AKI
+can lead to CKD, and CKD increases the risk of AKI. Even a single episode of AKI raises the risk of CKD
+and death.
+Common causes of AKI include sepsis, major surgery, trauma, complications of pregnancy,
+nephrotoxic medications and volume depletion.
+AKI is diagnosed by rising serum creatinine levels above baseline (pre-illness) values, and/or
+abnormally low levels of urine output.
+AKI can be prevented by avoiding and treating dehydration, infections and pregnancy-related
+complications.
+Management of AKI focuses on treating the cause and correcting fluid/electrolyte disturbances and
+providing temporary dialysis when needed.

@@ -1,0 +1,294 @@
+STROKE
+SOURCE-WHO
+Key facts
+• In 2021, stroke was the third leading cause of death and disability globally, with an estimated
+93.8 million cases.
+• In 2021, there were 11.9 million new cases of stroke.
+• The lifetime risk of stroke has increased by 50 % over the past 20 years, with 1 in 4 adults
+predicted to experience a stroke in their lifetime.
+• The global burden of stroke measured in Disability-Adjusted Life Years (DALYs) increased from
+137 million in the year 2000 to 160 million in 2021 (1).
+• Most of the stroke burden is attributable to 10 modifiable risk factors, including high blood
+pressure, air pollution, smoking, high LDL cholesterol, diet high in sodium, high fasting blood
+glucose, kidney dysfunction, excess body weight, physical inactivity, and harmful use of
+alcohol.
+Overview
+A stroke is a medical emergency that occurs when blood flow to the brain is interrupted, either due
+to a blockage or bleeding. This lack of blood flow can lead to brain cell death and serious
+complications. Strokes can be fatal and need immediate treatment.
+The types of strokes are:
+• ischaemic stroke: a blood clot blocks a blood vessel in your brain leading to loss of blood
+flow;
+• haemorrhagic stroke: intracerebral haemorrhage (ICH) by rupture of a blood vessel in the
+brain leading to bleeding; and
+• transient ischaemic attack (TIA): a short period of symptoms similar to those of a stroke,
+caused by a brief blockage of blood flow to the brain. A TIA usually lasts only a few minutes
+and doesn't cause long-term damage.
+Risk factors
+There are by modifiable and non-modifiable risk factors for stroke.
+Modifiable risk factors are:
+• hypertension: the leading contributor to stroke. Individuals with hypertension have a nearly
+three times higher risk of stroke compared to those without hypertension;
+• tobacco use: associated with approximately two-fifths of all stroke deaths among individuals
+under the age of 65; and
+• other risk factors: high blood cholesterol, diabetes mellitus, high levels of low-density
+lipoprotein cholesterol, overweight and obesity, physical inactivity, unhealthy diet
+(particularly diets high in sodium and low in fruits and vegetables), harmful use of alcohol,
+use of illicit drugs (e.g. cocaine), air pollution, high fasting blood glucose and kidney
+dysfunction.
+Non-modifiable risk factors are:
+• age
+• a prior stroke
+• pre-existing cardiac conditions (e.g. atrial fibrillation, heart failure), and chronic kidney
+disease.
+Symptoms
+The following symptoms can be signs of stroke:
+• balance – sudden dizziness, loss of balance or coordination
+• eyes – sudden vision loss
+• face – facial droop
+• arms – weakness in one or both arms
+• speech – slurred or strange speech.
+Diagnosis and treatment
+When a stroke is suspected, it should be treated as a health emergency. Rapid care is essential.
+Immediate diagnostic imagining (a CT or MRI scan) should be carried out as soon as possible.
+In the case of ischaemic stroke, thrombolytic therapy (e.g. tPA) should be carried out as soon as
+possible, and within hours of symptom onset. An endovascular thrombectomy may be indicated,
+depending on the severity and location of symptoms.
+In the case of haemorrhagic stroke, management includes action to control blood pressure; intensive
+care in a specialized stroke unit; and possibly surgical intervention.
+Admission to a specialist stroke unit with rehabilitation services enhances outcomes and decreases
+mortality and morbidity.
+Prevention
+Lifestyle changes and effective management of high blood pressure can significantly reduce the risk
+of stroke.
+Everyone can reduce their risk of stroke by:
+• controlling high blood pressure through a healthy lifestyle and appropriate antihypertensive
+treatment;
+• reducing tobacco use and limiting exposure to second-hand smoke;
+• adopting a healthy balanced diet, including at least five servings of fruit and vegetables daily
+and reducing intake of salt, saturated fats, and sugars;
+• engaging in regular physical activity, aiming for at least 150 minutes of moderate-intensity
+exercise per week;
+• effectively managing comorbid conditions such as diabetes, dyslipidaemia, and atrial
+fibrillation;
+• limiting use of alcohol; and
+• improving indoor and outdoor air quality.
+Action can also be taken for individuals at particular risk:
+• antiplatelet therapy or anticoagulants can be given, as appropriate, to prevent recurrent
+strokes;
+• lipid-lowering therapy can be initiated for individuals at risk of atherosclerotic cardiovascular
+disease; and
+• assessment for carotid artery stenosis can be carried out and when clinically indicated,
+revascularization (a medical procedure aimed at restoring the blood flow to the brain when
+the flow is limited or there is a blockage, as in ischemic stroke) can be considered.
+Complications
+Stroke can lead to a wide range of complications, including serious effects on the brain, heart and
+other parts of the body.
+Acute complications (that appear within days to weeks) are:
+• brain oedema or swelling of the brain
+• aphasia or other speech disorders
+• trouble swallowing (dysphagia)
+• aspiration pneumonia, a lung infection
+• seizure
+• depression
+• pressure ulcers
+• limb contracture
+• spasticity
+• shoulder pain
+• deep venous thrombosis.
+Long-term complications (months to years) are:
+• persistent motor deficits and gait disturbances (abnormalities in movement and walking
+pattern)
+• chronic pain and spasticity
+• cognitive impairment and memory loss
+• emotional and psychological conditions, including depression and anxiety
+• post-stroke epilepsy
+• urinary incontinence
+• loss of independence and reduced ability to perform daily activities.
+Rehabilitation after stroke
+Rehabilitation is a critical component of stroke care and recovery. It aims to help individuals regain
+functional abilities, improve quality of life, and restore independence to the greatest extent possible.
+Stroke rehabilitation should begin as soon as the person is medically stable – ideally within the first
+few days after the stroke.
+Rehabilitation involves a multidisciplinary approach, including:
+• physiotherapy to improve mobility, muscle strength, balance, and coordination;
+• occupational therapy to enhance the ability to perform daily activities such as bathing,
+dressing, and cooking;
+• speech and language therapy to address difficulties with communication, speech, and
+swallowing;
+• neuropsychological and cognitive therapy to support cognitive function, memory, and
+emotional well-being; and
+• psychological support and counselling to address depression, anxiety, and emotional
+adjustment after stroke.
+WHO response
+The World Health Organization (WHO) helps countries reduce the burden of stroke and improve
+prevention, treatment, and rehabilitation.
+In 2024, WHO published a framework for organizing care for stroke and acute coronary syndrome. It
+offers guidance on timely diagnosis, effective treatment, and rehabilitation, helping countries
+improve services and reduce deaths and disability. WHO also supports integrating stroke care into
+broader health strategies and universal health coverage, ensuring services are accessible and
+sustainable. The WHO STEPwise approach to stroke surveillance manual helps countries collect
+reliable data on stroke cases and outcomes, supporting evidence-based policies.
+Stroke is also part of WHO’s broader work on neurological disorders. The Intersectoral global action
+plan on epilepsy and other neurological disorders (2022–2031) promotes better access to care and
+improved quality of life for people with conditions like stroke. Similarly, stroke rehabilitation care is
+included in the WHO Package of interventions for rehabilitation: module 3: neurological conditions.
+Managing high blood pressure is key to preventing stroke. WHO’s 2021 guideline for the
+pharmacological treatment of hypertension in adults supports health systems in treating
+hypertension effectively. To strengthen heart and stroke prevention, WHO launched the HEARTS
+initiative in 2016. It promotes healthy lifestyles, access to medicines, and team-based care.
+Stroke remains a major global health challenge. Without better care, it will be difficult to reach the
+goal of reducing premature deaths from noncommunicable diseases by one-third by 2030 (SDG 3.4).
+SOURCE-NCDC
+What it is
+A stroke, sometimes called a brain attack, occurs when something blocks blood supply to part of the
+brain or when a blood vessel in the brain bursts.
+In either case, parts of the brain become damaged or die. A stroke can cause lasting brain damage,
+long-term disability, or even death.
+Learn about the health conditions and lifestyle habits that can increase your risk for stroke.
+What happens in the brain during a stroke?
+The brain controls our movements, stores our memories, and is the source of our thoughts,
+emotions, and language. The brain also controls many functions of the body, like breathing and
+digestion.
+To work properly, your brain needs oxygen. Your arteries deliver oxygen-rich blood to all parts of your
+brain. If something happens to block the flow of blood, brain cells start to die within
+minutes, because they can't get oxygen. This causes a stroke.
+Learn more about the signs and symptoms of stroke.
+Types
+There are two types of stroke:
+• Ischemic stroke.
+• Hemorrhagic stroke.
+A transient ischemic attack (TIA) is sometimes called a "mini-stroke." It is different from the major
+types of stroke. Blood flow to the brain is blocked for only a short time—usually no more than 5
+minutes.1
+Ischemic stroke
+Most strokes are ischemic strokes. An ischemic stroke occurs when blood clots or other particles
+block the blood vessels to the brain.
+Fatty deposits called plaque can also cause blockages by building up in the blood vessels.
+Hemorrhagic stroke
+A hemorrhagic stroke happens when an artery in the brain leaks blood or ruptures (breaks open).
+The leaked blood puts too much pressure on brain cells, which damages them.
+High blood pressure and aneurysms—balloon-like bulges in an artery that can stretch and burst—are
+examples of conditions that can cause a hemorrhagic stroke.
+Transient ischemic attack (TIA or “mini-stroke”)
+TIAs are sometimes known as "warning strokes." It's important to know that:
+• A TIA is a warning sign of a future stroke.
+• A TIA is a medical emergency, just like a major stroke.
+• Strokes and TIAs require emergency care. Call 9-1-1 right away if you feel symptoms of a
+stroke or see signs in another person.
+• There is no way to know in the beginning whether symptoms are from a TIA or from a major
+type of stroke.
+• Like ischemic strokes, blood clots often cause TIAs.
+• More than a third of people who have a TIA and don't get treatment have a major stroke
+within 1 year. As many as 10% to 15% of people will have a major stroke within 3 months of a
+TIA.1
+Recognizing and treating TIAs can lower the risk of a major stroke. If you have a TIA, your health care
+team can find the cause and take steps to prevent a major stroke.
+Signs and symptoms
+By knowing the signs and symptoms of stroke, you can take quick action and perhaps save a life—
+maybe even your own.
+What are the signs of stroke in men and women?
+• Sudden trouble walking, dizziness, loss of balance, or lack of coordination.
+• Sudden trouble seeing.
+• Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body.
+• Sudden confusion, trouble speaking, or difficulty understanding speech.
+• Sudden severe headache with no known cause.
+Call 9-1-1 right away if you or someone else has any of these symptoms.
+B.E. F.A.S.T to identify stroke
+B.E. F.A.S.T. to help stroke patients get the treatments they need.
+The stroke treatments that work best are available only if the stroke is recognized and diagnosed
+within 3 hours of the first symptoms. Stroke patients may not be eligible for these treatments if they
+don't arrive at the hospital in time.
+If you think someone may be having a stroke, B.E. F.A.S.T. and do the following test:
+• B—Balance Loss: Ask the person if they are feeling off-balance or dizzy.
+• E—Eye (Vision) Changes: Ask the person if they have trouble seeing normally.
+• F—Face: Ask the person to smile. Does one side of the face droop?
+• A—Arms: Ask the person to raise both arms. Does one arm drift downward?
+• S—Speech: Ask the person to repeat a simple phrase. Is the speech slurred or strange?
+• T—Time: If you see any of these signs, call 9-1-1 right away.
+Note the time when any symptoms first appear. This information helps health care providers
+determine the best treatment.
+Do not drive to the hospital or let someone else drive you. Call 9-1-1 for an ambulance so that
+medical personnel can begin life-saving treatment on the way to the emergency room.
+What should I do to treat a transient ischemic attack ("mini-stroke")?
+If your stroke symptoms go away after a few minutes, you may have had a transient ischemic attack
+(TIA), also sometimes called a "mini-stroke." Although brief, a TIA is a sign of a serious condition that
+will not go away without medical help.
+Unfortunately, because TIAs clear up, many people ignore them. But paying attention to a TIA can
+save your life. If you think you or someone you know has had a TIA, tell a health care team about the
+symptoms right away.
+How is stroke treated?
+On the way to the hospital
+Calling 9-1-1 for an ambulance means that medical staff can begin life-saving treatment on the way
+to the emergency room.
+Do not drive to the hospital or let someone else drive you. The key to stroke treatment and recovery
+is getting to the hospital quickly.
+Stroke patients who are taken to the hospital in an ambulance may get diagnosed and treated more
+quickly than people who do not arrive in an ambulance.1 This is because emergency treatment starts
+on the way to the hospital. The emergency workers may take you to a specialized stroke center to
+ensure that you receive the quickest possible diagnosis and treatment.
+The emergency workers will also collect valuable information that guides treatment and alert
+hospital medical staff before you arrive at the emergency room, giving them time to prepare.
+Prevention steps and strategies
+Choose healthy foods and drinks
+Choosing healthy meal and snack options can help you prevent stroke. Be sure to eat plenty of fresh
+fruits and vegetables.
+Eating foods low in saturated fats, trans fat, and cholesterol and high in fiber can help prevent high
+cholesterol. Limiting salt (sodium) in your diet can also lower your blood pressure. High cholesterol
+and high blood pressure increase your chances of having a stroke.
+For more information on healthy diet and nutrition, see CDC's Nutrition website.
+Keep a healthy weight
+Having overweight or obesity increases your risk for stroke. To determine whether your weight is in a
+healthy range, doctors often calculate your body mass index (BMI). If you know your weight and
+height, you can calculate your BMI at CDC's BMI calculator. Doctors sometimes also use waist and hip
+measurements to measure excess body fat.
+Get regular physical activity
+Physical activity can help you stay at a healthy weight and lower your cholesterol and blood pressure
+levels. For adults, the surgeon general recommends 2 hours and 30 minutes of moderate-intensity
+aerobic physical activity, such as a brisk walk, each week. Children and teens should get 1 hour of
+physical activity every day.
+Find inspiration and tips for getting regular physical activity from the "Live to the Beat" campaign.
+Don't smoke
+Cigarette smoking greatly increases your chances of having a stroke. If you don't smoke, don't start. If
+you do smoke, quitting will lower your risk for stroke. Your doctor can suggest ways to help you quit.
+For more information about tobacco use and quitting, see CDC's Smoking & Tobacco Use website.
+Limit alcohol
+Avoid drinking too much alcohol, which can raise your blood pressure. Men should have no more
+than two drinks per day, and women should have no more than one per day. For more information,
+visit CDC's Alcohol and Public Health website.
+Control your medical conditions
+Talk with your doctor about steps you can take to lower your risk for stroke.
+If you have heart disease, high cholesterol, high blood pressure, or diabetes, you can take steps to
+lower your risk for stroke.
+Check cholesterol
+Your doctor should test your cholesterol levels at least once every 5 years. Talk with your health care
+team about this simple blood test. If you have high cholesterol, medicine and lifestyle changes can
+help lower your risk for stroke.
+Control blood pressure
+High blood pressure usually has no symptoms, so be sure to have it checked on a regular basis. Talk
+to your health care team about how often you should check your levels. You can check your blood
+pressure at home, at a doctor's office, or at a pharmacy.
+If you have high blood pressure, your doctor might prescribe medicine, suggest some changes in your
+lifestyle, or recommend that you choose foods with lower sodium (salt).
+Control diabetes
+If your doctor thinks you have symptoms of diabetes, he or she may recommend that you get tested.
+If you have diabetes, check your blood sugar levels regularly.
+Talk with your health care team about treatment options. Your doctor may recommend certain
+lifestyle changes, such as getting more physical activity or choosing healthier foods. These actions
+will help keep your blood sugar under control and help lower your risk for stroke.
+Treat heart disease
+If you have certain heart conditions, such as coronary artery disease or atrial fibrillation (irregular
+heartbeat), your health care team may recommend medical treatment or surgery. Taking care of
+heart problems can help prevent stroke.
+Take your medicine
+If you take medicine to treat heart disease, high cholesterol, high blood pressure, or diabetes, follow
+your doctor's instructions carefully. Always ask questions if you don't understand something. Never
+stop taking your medicine without first talking to your doctor or pharmacist.
+Work with your health care team
+You and your health care team can work together to prevent or treat the medical conditions that
+lead to stroke. Discuss your treatment plan regularly, and bring a list of questions to your
+appointments. Learn how to find the right doctor for you from the "Live to the Beat" campaign.
+If you've already had a stroke or transient ischemic attack (TIA), your health care team will work with
+you to prevent further strokes. Your treatment plan will include medicine or surgery and lifestyle
+changes to lower your risk for another stroke. Be sure to take your medicine as directed and follow
+your doctor's instructions.

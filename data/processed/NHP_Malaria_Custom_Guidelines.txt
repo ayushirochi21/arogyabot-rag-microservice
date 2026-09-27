@@ -1,0 +1,97 @@
+MALARIA
+Custom Study Summary with reference to National Health Portal (NHP) and Government of India
+malaria resources
+Overview
+Malaria is a potentially life-threatening parasitic disease caused by Plasmodium parasites. It is mainly
+transmitted through the bite of an infected female Anopheles mosquito. Malaria is preventable and treatable,
+but delayed diagnosis and treatment can lead to severe complications.
+Key Facts
+(cid:127) Causative agent: Protozoan parasites of the genus Plasmodium.
+(cid:127) Important human malaria parasites include P. vivax, P. falciparum, P. malariae and P. ovale.
+(cid:127) Main vector: Infected female Anopheles mosquito.
+(cid:127) Incubation period: Symptoms commonly appear around 10–15 days after an infective mosquito bite.
+(cid:127) P. falciparum malaria is associated with a high risk of severe and life-threatening disease.
+(cid:127) Early diagnosis and complete treatment help prevent complications and reduce transmission.
+Transmission
+The main transmission cycle is:
+Infected person fi Anopheles mosquito fi mosquito becomes infected fi bite of another person fi
+Malaria infection
+(cid:127) Malaria is primarily transmitted through the bite of an infected female Anopheles mosquito.
+(cid:127) The parasite undergoes stages of development in the human body and in the mosquito.
+(cid:127) Malaria does not normally spread through casual person-to-person contact.
+(cid:127) Transmission can also occur through infected blood in uncommon circumstances.
+Clinical Features and Symptoms
+Fever is the cardinal symptom of malaria. Symptoms can be non-specific and may resemble other febrile
+illnesses. Common features include:
+(cid:127) Fever, which may be intermittent or continuous
+(cid:127) Chills and rigors
+(cid:127) Headache
+(cid:127) Sweating
+(cid:127) Muscle and joint pain
+(cid:127) Fatigue and weakness
+(cid:127) Loss of appetite
+(cid:127) Nausea and vomiting
+Severe and Complicated Malaria
+Malaria, particularly P. falciparum infection, can rapidly progress to severe illness if treatment is delayed.
+Severe manifestations may include:
+(cid:127) Altered consciousness or cerebral malaria
+(cid:127) Repeated convulsions
+(cid:127) Severe anaemia
+(cid:127) Respiratory distress
+(cid:127) Jaundice
+(cid:127) Dark or bloody urine
+(cid:127) Abnormal bleeding
+(cid:127) Shock or multi-organ dysfunction
+People at Higher Risk
+(cid:127) Infants and young children
+(cid:127) Pregnant women
+(cid:127) People with reduced immunity
+(cid:127) Travellers or people without previous immunity living in malaria-endemic areas
+Diagnosis
+Malaria should be confirmed through parasite-based diagnostic testing whenever possible. Common
+diagnostic methods include:
+(cid:127) Microscopic examination of peripheral blood smears
+(cid:127) Rapid Diagnostic Tests (RDTs)
+(cid:127) Clinical assessment together with laboratory confirmation
+Testing helps distinguish malaria from other causes of fever and guides appropriate treatment.
+Treatment and Management
+Malaria requires appropriate antimalarial treatment. The choice of medicine depends on the malaria parasite
+species, severity of illness, local drug resistance patterns and individual factors.
+(cid:127) Early diagnosis and prompt treatment are essential.
+(cid:127) Uncomplicated malaria should be treated according to national treatment guidelines.
+(cid:127) Artemisinin-based combination therapy (ACT) is an important treatment approach for P. falciparum malaria.
+(cid:127) Severe malaria requires urgent hospital-based management and may require injectable antimalarial
+therapy.
+(cid:127) Complete treatment is important to cure infection and reduce onward transmission.
+Prevention and Control
+Prevention focuses on avoiding mosquito bites, controlling mosquito populations and ensuring early detection
+and treatment.
+Personal protection:
+(cid:127) Sleep under insecticide-treated mosquito nets where appropriate.
+(cid:127) Use mosquito repellents.
+(cid:127) Wear clothing that covers exposed skin, especially during mosquito-biting hours.
+(cid:127) Use screens and other measures to reduce mosquito entry into homes.
+Vector control:
+(cid:127) Indoor residual spraying (IRS) in appropriate areas.
+(cid:127) Use of long-lasting insecticidal nets (LLINs).
+(cid:127) Identification and management of mosquito breeding habitats.
+(cid:127) Community participation in local vector-control activities.
+When to Seek Immediate Medical Attention
+(cid:127) Fever with chills after staying in or travelling to a malaria-prone area
+(cid:127) Confusion, drowsiness or seizures
+(cid:127) Difficulty breathing
+(cid:127) Persistent vomiting or inability to drink fluids
+(cid:127) Dark urine, jaundice or unusual bleeding
+(cid:127) Rapid worsening of symptoms
+Malaria: Quick Summary
+Cause: Plasmodium parasites
+Spread: Bite of an infected female Anopheles mosquito
+Incubation: Commonly around 10–15 days
+Main symptoms: Fever, chills, headache, sweating and body aches
+Severe disease: May cause cerebral malaria, severe anaemia, respiratory distress and organ dysfunction
+Diagnosis: Blood smear microscopy and/or rapid diagnostic tests
+Treatment: Prompt species- and severity-appropriate antimalarial treatment
+Prevention: Mosquito-bite protection, insecticide-treated nets and vector control
+References: National Health Portal (NHP), Ministry of Health & Family Welfare, Government of India; National Centre for Vector
+Borne Diseases Control (NCVBDC), Ministry of Health & Family Welfare, Government of India.
+This is an educational study summary and not a substitute for professional medical advice, diagnosis or treatment.

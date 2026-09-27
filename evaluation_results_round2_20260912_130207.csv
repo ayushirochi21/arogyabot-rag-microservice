@@ -1,0 +1,213 @@
+id,category,question,answer,top_relevance_score,num_sources_used,sources_summary,response_time_sec,manually_correct (fill in Y/N),manually_grounded (fill in Y/N),hallucination_observed (fill in Y/N),notes
+1,cardiovascular disease,What are the symptoms of a heart attack?,"According to the provided information, symptoms of a heart attack may include:
+
+*   Pain or discomfort in the center of the chest.
+*   Pain or discomfort in the arms, left shoulder, elbows, jaw, or back.
+*   Difficulty breathing or shortness of breath.
+*   Nausea or vomiting.
+*   Light-headedness or faintness.
+*   A cold sweat.
+*   Turning pale.
+
+It is noted that women are more likely than men to experience shortness of breath, nausea, vomiting, and pain in the back or jaw. Please be aware that people experiencing these symptoms should seek medical care immediately.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.785,5,hypertension (Complications of uncontrolled hypertension) [0.785]; Cardiovascular Disease (Symptoms of heart attacks and strokes) [0.768]; Cardiovascular Disease (SOURCE-NIH) [0.734]; hypertension (Symptoms) [0.719]; Cardiovascular Disease (Characteristics of rheumatic heart disease) [0.711],2.18,,,,
+2,cardiovascular disease,How can cardiovascular disease be prevented?,"Most cardiovascular diseases can be prevented by addressing the following behavioral and environmental risk factors:
+
+*   Avoiding tobacco use.
+*   Maintaining a heart-healthy diet (including limiting excess salt, sugar, and fats).
+*   Avoiding obesity.
+*   Increasing physical activity.
+*   Avoiding the harmful use of alcohol.
+*   Reducing exposure to air pollution.
+
+Additionally, if you have certain heart conditions, such as coronary artery disease or an irregular heartbeat (atrial fibrillation), following medical advice regarding treatments or surgeries can help prevent further complications, such as a stroke. For many people, coronary heart disease can also be managed or potentially reversed through a combination of a heart-healthy lifestyle and medicines.
+
+It is important to detect cardiovascular disease as early as possible so that management can begin. Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.825,5,Cardiovascular Disease (SOURCE-NIH) [0.825]; Cardiovascular Disease (Key facts) [0.819]; STROKE (Treat heart disease) [0.819]; Cardiovascular Disease (SOURCE-NIH) [0.793]; Cardiovascular Disease (Overview) [0.784],1.61,,,,
+3,COPD,What are the symptoms of COPD?,"Common symptoms of Chronic Obstructive Pulmonary Disease (COPD) include:
+
+*   **Difficulty breathing:** You may feel short of breath, especially during physical activity. It may feel like breathing requires more effort, or you may feel like you are gasping for air.
+*   **Ongoing cough:** This is often the first symptom and may produce a lot of mucus (phlegm), sometimes referred to as a ""smoker's cough.""
+*   **Wheezing:** A whistling or squeaky sound when you breathe.
+*   **Chest issues:** You may experience chest tightness or heaviness, which can make it hard to take a deep breath or cause pain while breathing.
+*   **Fatigue:** Feeling extreme tiredness.
+
+As COPD progresses, symptoms can worsen, making it difficult to carry out normal daily activities. In more severe cases, symptoms may also include a lack of appetite, weight loss, muscle loss, anxiety, and depression. Additionally, people with COPD may experience ""flare-ups,"" where symptoms get worse quickly for a few days.
+
+It is important to note that not everyone with COPD experiences all of these symptoms, and having these symptoms does not necessarily mean you have COPD. Other conditions can also cause similar symptoms.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.891,5,Chronic Obstructive Pulmonary Disease (SOURCE-NIH) [0.891]; Chronic Obstructive Pulmonary Disease (Recognize the Signs of COPD) [0.841]; Chronic Obstructive Pulmonary Disease (Symptoms) [0.832]; Chronic Obstructive Pulmonary Disease (When to call your healthcare provider) [0.817]; Chronic Obstructive Pulmonary Disease (Overview) [0.816],1.87,,,,
+4,COPD,What causes chronic obstructive pulmonary disease?,"Chronic obstructive pulmonary disease (COPD) is caused by damage to the lungs or airways that leads to inflammation, swelling, and narrowed air passages, making it difficult to breathe. 
+
+COPD develops gradually over time, often due to a combination of the following factors:
+
+*   **Tobacco smoke:** This includes active smoking and passive exposure to second-hand smoke. It is the most common cause in high-income countries.
+*   **Air pollution:** Exposure to indoor air pollution (such as smoke from burning wood, animal dung, crop residue, or coal used for cooking and heating) and outdoor air pollution.
+*   **Occupational exposure:** Breathing in dust, fumes, or chemicals at work.
+*   **Early life events:** Issues such as poor growth in the womb, premature birth, or frequent/severe respiratory infections during childhood that prevent the lungs from reaching their maximum growth.
+*   **Childhood asthma:** A history of asthma in childhood.
+*   **Genetic factors:** A rare condition called alpha-1 antitrypsin deficiency can cause COPD, even in younger people.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.903,5,Chronic Obstructive Pulmonary Disease (Overview) [0.903]; Chronic Obstructive Pulmonary Disease (SOURCE-NIH) [0.852]; Chronic Obstructive Pulmonary Disease (Key facts) [0.821]; Chronic Obstructive Pulmonary Disease (Causes) [0.804]; Chronic Obstructive Pulmonary Disease (Symptoms) [0.802],1.78,,,,
+5,leprosy,What are the early signs of leprosy?,"The early signs of leprosy, also known as Hansen disease, include:
+
+*   A persistent pale or reddish skin patch that has a definite loss of sensation.
+*   Numbness.
+*   Unexplained weakness in the hands or feet.
+*   Thickened or enlarged peripheral nerves associated with a loss of sensation or muscle weakness.
+*   Persistent skin changes that are associated with a loss of sensation.
+*   Eye symptoms associated with suspected leprosy.
+
+Early detection is important because untreated leprosy can lead to permanent nerve damage, disability, and other complications. 
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.822,5,MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (9. LEPROSY) [0.822]; WHO Leprosy Cholera Encephalitis KalaAzar (Diagnosis) [0.81]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.798]; WHO Leprosy Cholera Encephalitis KalaAzar (Prevention and Control) [0.794]; WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.776],1.16,,,,
+6,leprosy,Is leprosy curable?,"Yes, leprosy is curable. It is treated using a multidrug therapy (MDT) regimen, which typically includes the medications Dapsone, Rifampicin, and Clofazimine. Early diagnosis and prompt treatment are important, as they help prevent permanent nerve damage and disability.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.86,5,WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.86]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.858]; WHO Leprosy Cholera Encephalitis KalaAzar (Diagnosis) [0.85]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (9. LEPROSY) [0.817]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (9. LEPROSY) [0.811],1.24,,,,
+7,cholera,What causes cholera?,"Cholera is an acute infection caused by a bacterium called *Vibrio cholerae*.
+
+It is primarily transmitted through the ingestion of food or water that has been contaminated with the bacteria. This contamination often occurs through the faecal-oral route, where faeces from an infected person contaminate the environment or water sources, which are then consumed by others. Risk factors for transmission include poor sanitation, unsafe drinking water, and improper food handling.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.853,5,MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (10. CHOLERA) [0.853]; WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.834]; WHO Leprosy Cholera Encephalitis KalaAzar (Dehydration — Major Danger) [0.808]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (Antibiotic therapy) [0.808]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (10. CHOLERA) [0.786],1.4,,,,
+8,cholera,How is cholera treated?,"Cholera is a treatable infection, and the most important principle of treatment is the immediate replacement of lost fluids.
+
+**Treatment options include:**
+
+*   **Oral Rehydration Solution (ORS):** This is the main treatment used for mild to moderate illness. It is vital to continue appropriate feeding and nutrition while using ORS.
+*   **Intravenous (IV) Fluids:** These are required for severe cases to replace fluids rapidly.
+*   **Antibiotics:** These may be used as an adjunctive treatment in appropriate cases when indicated by a healthcare professional.
+
+Because severe cholera can lead to rapid, life-threatening dehydration, suspected severe cases should be treated urgently. It is critical to monitor for worsening dehydration throughout the recovery process.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.84,5,WHO Leprosy Cholera Encephalitis KalaAzar (• ORS) [0.84]; WHO Leprosy Cholera Encephalitis KalaAzar (Diagnosis) [0.84]; WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.831]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (Antibiotic therapy) [0.816]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (10. CHOLERA) [0.804],1.98,,,,
+9,Japanese encephalitis,What are the symptoms of Japanese encephalitis?,"Most Japanese encephalitis (JE) infections are asymptomatic (meaning there are no symptoms) or cause only mild illness, such as fever and headache.
+
+However, in cases that progress to severe disease, symptoms can include:
+*   Encephalitis (inflammation of the brain)
+*   Seizures
+*   Altered consciousness or confusion/disorientation
+*   Paralysis
+*   Coma
+*   Severe headache
+*   Neck stiffness
+*   Weakness
+*   Rapid neurological deterioration
+
+Immediate medical care is required if fever is accompanied by any of these severe symptoms. Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.826,5,MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (Virus isolation) [0.826]; WHO Leprosy Cholera Encephalitis KalaAzar (When to Seek Urgent Medical Attention) [0.821]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.815]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (11. JAPANESE ENCEPHALITIS) [0.809]; WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.808],1.22,,,,
+10,Japanese encephalitis,How is Japanese encephalitis prevented?,"To prevent Japanese encephalitis, the following measures are recommended:
+
+*   **Vaccination:** This is the most important preventive measure. The World Health Organization recommends including the Japanese encephalitis vaccine in national immunization programs for areas where the disease is a public-health priority.
+*   **Mosquito-bite prevention:** Since the disease is spread by mosquitoes, you should take steps to avoid being bitten:
+    *   Use mosquito repellents.
+    *   Wear clothing that covers your skin.
+    *   Use mosquito nets where appropriate.
+    *   Take steps to reduce mosquito breeding sites.
+    *   Be extra cautious in areas where the virus is actively spreading.
+
+Transmission risk is often higher in rural or periurban areas, regions with rice cultivation, or places where pigs and water birds are present.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.867,5,MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (Virus isolation) [0.867]; WHO Leprosy Cholera Encephalitis KalaAzar (Official Reference) [0.858]; WHO Leprosy Cholera Encephalitis KalaAzar (Treatment) [0.845]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (11. JAPANESE ENCEPHALITIS) [0.838]; WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.833],1.6,,,,
+11,Kala-azar,What are the symptoms of Kala-azar?,"The main symptoms of kala-azar (also known as visceral leishmaniasis) include:
+
+*   **Prolonged or irregular fever:** A fever that lasts for more than two weeks.
+*   **Weight loss:** Significant or unexplained loss of weight.
+*   **Enlarged organs:** Specifically an enlarged spleen and/or liver.
+*   **Weakness:** Persistent feelings of fatigue or lack of strength.
+*   **Anaemia:** Often presenting as paleness.
+
+If left untreated, the disease can lead to progressive deterioration, severe wasting, and potentially fatal systemic illness.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.81,5,MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (Transmission Sequence) [0.81]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (Vector Control) [0.785]; WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.78]; MoHFW NCDC Leprosy Cholera Encephalitis KalaAzar (Parasitological Confirmation) [0.775]; NHP Malaria Custom Guidelines (Incubation: Commonly around 10–15 days) [0.771],1.49,,,,
+12,Kala-azar,How is visceral leishmaniasis transmitted?,"Visceral leishmaniasis is transmitted to humans through the bite of an infected female phlebotomine sandfly. Once the sandfly bites a person, the Leishmania parasites enter the body, multiply in the tissues, and can lead to the disease.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.855,5,WHO Leprosy Cholera Encephalitis KalaAzar (Important) [0.855]; WHO Leprosy Cholera Encephalitis KalaAzar (Symptoms) [0.85]; WHO Leprosy Cholera Encephalitis KalaAzar (Transmission) [0.849]; WHO Leprosy Cholera Encephalitis KalaAzar (Treatment) [0.837]; WHO Leprosy Cholera Encephalitis KalaAzar (Overview) [0.833],1.1,,,,
+13,lymphatic filariasis,What causes lymphatic filariasis?,"Lymphatic filariasis is caused by microscopic filarial worms. The disease is transmitted to humans through the bite of an infected mosquito. A mosquito becomes infected after feeding on a person who already has these parasites, and it can then transmit the parasites to another person through a subsequent bite.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.872,5,LymphaticFilariasis HIV Hepatitis Depression (Official reference sources) [0.872]; LymphaticFilariasis HIV Hepatitis Depression (Disease Factsheet Page 7) [0.808]; LymphaticFilariasis HIV Hepatitis Depression (LYMPHATIC FILARIASIS) [0.802]; 11 ICMR STW fever (Meningococcemia) [0.713]; Cardiovascular Disease (Characteristics of rheumatic heart disease) [0.681],1.09,,,,
+14,lymphatic filariasis,How can lymphatic filariasis be prevented?,"To prevent lymphatic filariasis, the following measures are recommended:
+
+*   **Mass drug administration:** Public health programs in endemic areas provide preventive chemotherapy to populations to help interrupt the transmission of the disease.
+*   **Reducing mosquito bites:** You can lower your risk of exposure by taking steps to avoid mosquito bites, such as using bed nets and protective clothing.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.867,5,LymphaticFilariasis HIV Hepatitis Depression (Official reference sources) [0.867]; LymphaticFilariasis HIV Hepatitis Depression (Disease Factsheet Page 7) [0.826]; LymphaticFilariasis HIV Hepatitis Depression (LYMPHATIC FILARIASIS) [0.803]; tuberculosis (Prevention) [0.702]; 11 ICMR STW fever (Meningococcemia) [0.697],1.93,,,,
+15,HIV/AIDS,How is HIV transmitted?,"HIV is transmitted through contact with certain body fluids, specifically blood, semen, vaginal fluids, rectal fluids, and breast milk. 
+
+Common ways the virus is spread include:
+*   Having vaginal or anal sex.
+*   Sharing needles or syringes.
+*   Exposure to infected blood.
+*   Transmission from a parent to a child during pregnancy, childbirth, or breastfeeding.
+
+It is important to note that HIV is not spread through casual contact, such as hugging, shaking hands, sharing dishes or toilets, or through air, water, or mosquito bites.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.806,5,LymphaticFilariasis HIV Hepatitis Depression (HIV/AIDS) [0.806]; NHP Malaria Custom Guidelines (Malaria infection) [0.763]; LymphaticFilariasis HIV Hepatitis Depression (AIDS.) [0.752]; dengue (Other transmission modes) [0.737]; chikungunya (Ae. aegypti) [0.736],1.24,,,,
+16,HIV/AIDS,What are the early symptoms of HIV infection?,"Early symptoms of HIV infection can include flu-like signs such as fever or chills. Other possible symptoms include:
+
+*   Night sweats
+*   Muscle aches
+*   Sore throat
+*   Fatigue
+*   Swollen lymph nodes
+*   Headache
+*   Diarrhea
+*   Mouth ulcers
+*   Skin rash
+
+It is important to note that some people have no symptoms at all during an early HIV infection. Because HIV cannot be accurately diagnosed by symptoms alone, it requires appropriate laboratory testing.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.798,5,LymphaticFilariasis HIV Hepatitis Depression (HIV/AIDS) [0.798]; 10 NCDC Seasonal Influenza (Typical onset Sudden) [0.741]; 11 ICMR STW fever (What to Ask) [0.717]; malaria (Symptoms) [0.716]; NHP Malaria Custom Guidelines (Clinical Features and Symptoms) [0.715],1.8,,,,
+17,hepatitis,What are the symptoms of viral hepatitis?,"Many people with viral hepatitis, especially hepatitis C, experience no symptoms at all. When symptoms do occur, they may include:
+
+*   Fatigue
+*   Fever
+*   Nausea and vomiting
+*   Loss of appetite
+*   Stomach or abdominal discomfort
+*   Jaundice (yellowing of the skin or eyes)
+*   Dark-colored urine
+*   Light-colored stools
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.787,5,10 NCDC Seasonal Influenza (Typical onset Sudden) [0.787]; LymphaticFilariasis HIV Hepatitis Depression (VIRAL HEPATITIS A/B/C) [0.756]; 12 ICMR STW Dengue (Warning Signs) [0.751]; NHP Malaria Custom Guidelines (Clinical Features and Symptoms) [0.75]; NHP Dengue Custom Guidelines (Warning Signs) [0.745],1.43,,,,
+18,hepatitis,How can hepatitis B be prevented?,"Hepatitis B can be prevented through the following methods:
+
+*   **Vaccination:** Getting vaccinated against hepatitis B is a primary way to prevent infection.
+*   **Safer sex:** Practicing safer sex reduces the risk of transmission.
+*   **Avoiding shared personal items:** Do not share needles, razors, or toothbrushes.
+*   **Preventing blood exposure:** Take precautions to avoid contact with infected blood, including the use of sterile equipment for tattoos or body piercings.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.831,5,LymphaticFilariasis HIV Hepatitis Depression (VIRAL HEPATITIS A/B/C) [0.831]; LymphaticFilariasis HIV Hepatitis Depression (VIRAL HEPATITIS A/B/C) [0.761]; tuberculosis (Prevention) [0.743]; tuberculosis (Overview) [0.725]; LymphaticFilariasis HIV Hepatitis Depression (Official reference sources) [0.707],1.8,,,,
+19,mental health,What are common signs of depression?,"Common symptoms of depression include:
+
+*   A persistent sad, anxious, or empty mood.
+*   Loss of interest or pleasure in activities.
+*   Feelings of hopelessness, guilt, worthlessness, irritability, or restlessness.
+*   Fatigue or low energy, as well as difficulty concentrating or making decisions.
+*   Sleep changes, such as insomnia or oversleeping.
+*   Changes in appetite or unplanned weight changes.
+*   Physical aches or digestive problems that do not have a clear physical cause.
+*   Thoughts of death or suicide (this requires urgent professional attention).
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.747,5,LymphaticFilariasis HIV Hepatitis Depression (DEPRESSION) [0.747]; LymphaticFilariasis HIV Hepatitis Depression (Official reference sources) [0.708]; Cardiovascular Disease (Symptoms of heart attacks and strokes) [0.706]; WHO Leprosy Cholera Encephalitis KalaAzar (Symptoms and Signs) [0.665]; 10 NCDC Seasonal Influenza (Typical onset Sudden) [0.664],1.47,,,,
+20,mental health,When should someone seek help for depression?,"You should seek help for depression if you experience persistent symptoms—such as a sad, anxious, or empty mood, loss of interest in activities, fatigue, changes in sleep or appetite, or difficulty concentrating—that last for most of the day, nearly every day, for at least two weeks. 
+
+Additionally, you should seek immediate professional or emergency help if you experience thoughts of suicide, suicide attempts, or feel that you are unable to stay safe.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.72,5,LymphaticFilariasis HIV Hepatitis Depression (DEPRESSION) [0.72]; LymphaticFilariasis HIV Hepatitis Depression (Official reference sources) [0.702]; LymphaticFilariasis HIV Hepatitis Depression (DEPRESSION) [0.666]; STROKE (B.E. F.A.S.T to identify stroke) [0.638]; STROKE (Rehabilitation after stroke) [0.636],1.49,,,,
+21,personal-symptom,"I have had a fever and joint pain for 3 days, what could this be?","Based on the information provided, a fever and joint pain can be symptoms of several different illnesses. 
+
+According to the provided guidelines:
+*   **Chikungunya:** This is often suspected when a person experiences a combination of sudden fever, skin rash, and severe joint pain. The joint pain often affects multiple, small joints like the hands, wrists, ankles, and feet, and can sometimes include swelling or stiffness.
+*   **Malaria:** Fever is the primary symptom of malaria. Other common features include chills, rigors, headache, sweating, muscle and joint pain, fatigue, and nausea. 
+*   **Seasonal Influenza:** While joint pain is not explicitly listed as a ""major"" symptom (which are listed as fever, cough, sore throat, body aches, headache, and fatigue), systemic symptoms like fever generally last about 3 days.
+
+Because fever and joint pain can be associated with multiple conditions, the provided information does not identify a specific cause for your symptoms. When evaluating a fever, health guidelines suggest considering the duration of the fever, the presence of a rash, or if others in your neighborhood or family have a similar illness.
+
+Please consult a qualified healthcare professional for personal medical advice — I am an information tool, not a diagnostic tool.",0.776,5,9 NCDC Chickungunya guidelines (Clinical Features and Symptoms) [0.776]; NHP Typhoid Custom Guidelines (Clinical Progression) [0.746]; 10 NCDC Seasonal Influenza (Typical onset Sudden) [0.746]; 11 ICMR STW fever (What to Ask) [0.73]; NHP Malaria Custom Guidelines (Clinical Features and Symptoms) [0.728],5.15,,,,
+22,personal-symptom,"I am feeling very thirsty and tired lately, should I be worried?","Feeling very thirsty and tired can be symptoms of several different health conditions.
+
+According to the provided information:
+*   **Diabetes:** Being very thirsty and feeling tired are both listed as symptoms of diabetes. In some cases, these symptoms can appear suddenly, while in type 2 diabetes, they may develop slowly over many years.
+*   **Dehydration:** Extreme thirst is a sign of significant dehydration, which can be a serious complication of conditions like cholera.
+*   **Chronic Kidney Disease:** In advanced stages, kidney disease can cause fatigue (feeling tired).
+
+Because these symptoms can be associated with various health conditions, you should consult a qualified healthcare professional for a proper evaluation and personal medical advice.",0.72,5,WHO Leprosy Cholera Encephalitis KalaAzar (Dehydration — Major Danger) [0.72]; diabetes (Symptoms) [0.708]; STROKE (Control diabetes) [0.704]; Chronic Kidney Disease (Symptoms) [0.69]; STROKE (Control blood pressure) [0.68],4.24,,,,

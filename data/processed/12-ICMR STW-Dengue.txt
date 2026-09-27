@@ -1,0 +1,229 @@
+12.DENGUE FEVER
+Overview
+Dengue fever is an acute viral illness associated with fever and a range of symptoms
+including nausea, vomiting, rash, muscle pain, headache, retro-orbital pain, joint pain
+and, in some cases, hemorrhagic manifestations.
+The ICMR STW is designed to help clinicians identify probable dengue, recognize
+warning signs, identify severe dengue, investigate appropriately and manage
+complications such as shock.
+When to Suspect Dengue
+Dengue should be suspected when a child:
+• Has fever
+• Has at least two of the following:
+o Nausea
+o Vomiting
+o Rash
+o Myalgia
+o Headache
+o Retro-orbital pain
+o Arthralgia
+o Hemorrhagic manifestations
+• Lives in or has travelled to a dengue-endemic area.
+Simple Recognition Rule
+Fever + ≥2 compatible symptoms + exposure to a dengue-endemic area → Suspect
+dengue
+Symptoms
+Common symptoms/signs include:
+• Fever
+• Nausea
+• Vomiting
+• Rash
+• Muscle pain (myalgia)
+• Headache
+• Pain behind the eyes (retro-orbital pain)
+• Joint pain (arthralgia)
+• Hemorrhagic manifestations
+These symptoms are the clinical criteria highlighted in the ICMR STW for suspecting
+dengue.
+Warning Signs
+A patient with dengue should be carefully assessed for warning signs, including:
+• Abdominal pain or tenderness
+• Persistent vomiting
+• Clinical fluid accumulation:
+o Pleural effusion
+o Ascites
+• Mucosal bleeding, such as:
+o Melena
+o Epistaxis
+o Gum bleeding
+• Liver enlargement >2 cm
+• Signs of shock, including:
+o Weak, rapid pulse
+o Pulse pressure <20 mmHg
+o Hypotension
+o Cold, clammy skin
+o Restlessness
+• Rising PCV with thrombocytopenia, including situations where clinical
+symptoms may not yet be prominent.
+Important
+Dengue + warning signs → requires closer monitoring and appropriate medical
+management.
+Severe Dengue
+The ICMR STW identifies severe dengue through serious complications such as:
+1. Severe fluid accumulation
+Particularly when associated with:
+• Respiratory distress
+2. Severe bleeding
+Significant hemorrhagic manifestations may require urgent intervention.
+3. Impaired consciousness
+Altered or impaired consciousness is a serious sign requiring urgent medical attention.
+Investigations
+The ICMR STW lists investigations according to clinical requirements.
+Essential investigations
+• Hemoglobin (Hb)
+• Total leukocyte count (TLC)
+• Differential leukocyte count (DLC)
+• Platelet count
+• Packed cell volume (PCV)
+• Tourniquet test
+• NS1 antigen — ELISA
+• Chest X-ray
+• Liver function tests (LFT)
+• Renal function tests (RFT)
+• Creatine phosphokinase (CPK)
+• Albumin
+• Ultrasound abdomen
+• Dengue IgM
+Additional investigations when required
+• Dengue PCR
+• Echocardiography
+• Central venous pressure (CVP) monitoring
+• Ultrasound-guided assessment of IVC collapsibility for monitoring hypovolemia.
+Important: Do not present all of these as tests that every dengue patient automatically
+needs. The STW categorizes investigations as essential, desirable and optional,
+depending on the clinical situation.
+Treatment
+Probable Dengue WITHOUT Warning Signs
+The ICMR STW recommends:
+• Symptomatic ambulatory treatment
+• Paracetamol for fever
+• Avoid NSAIDs
+• Daily monitoring of:
+o Clinical condition
+o PCV
+o Platelet count.
+Dengue WITH Warning Signs
+Patients with warning signs require closer clinical management and monitoring.
+Particular attention should be given to:
+• Fluid status
+• Hemodynamic status
+• PCV
+• Platelet count
+• Urine output
+• Development of shock
+• Respiratory distress
+If the patient's condition deteriorates, management should progress according to the
+shock/severe-dengue pathway.
+Dengue With Shock
+The ICMR workflow distinguishes between:
+Compensated Shock
+Features may include:
+• Tachypnea
+• Tachycardia
+• Blood pressure may still be maintained/normotensive.
+Hypotensive Shock
+Features include:
+• Tachypnea
+• Tachycardia
+• Hypotension
+• Peripheral pulses may not be palpable.
+Emergency Management
+The STW directs clinicians to:
+Assess airway, breathing and circulation → Start oxygen → Initiate appropriate fluid
+resuscitation → Continuously monitor → Urgent referral to a facility with PICU
+capability when required.
+Fluid Management in Shock
+The ICMR STW provides a stepwise fluid-management pathway based on clinical
+response and monitoring.
+The document specifies:
+• Initial crystalloid/colloid bolus according to the shock pathway.
+• Reassessment using parameters such as:
+o Heart rate
+o Respiratory rate
+o Blood pressure
+o PCV
+o CVP where applicable
+• Fluid infusion is progressively reduced when the patient improves.
+• If there is no improvement, clinicians should assess for:
+o Blood loss
+o Acidosis
+o Cardiac dysfunction
+o Fluid overload
+o Other causes of persistent shock.
+For your awareness PDF, do NOT reproduce all the exact fluid rates unless your
+template has enough space. The complete fluid algorithm is already available in the
+official ICMR STW and is more appropriate for healthcare professionals than for a
+general awareness chatbot.
+Blood Products
+The ICMR workflow provides indications for blood-product use.
+Packed Red Cells
+The STW lists situations including:
+• Significant overt blood loss
+• Refractory shock
+• Other clinically significant blood-loss situations.
+Platelets
+The STW lists situations including:
+• Prolonged shock
+• Prophylactic platelet transfusion at very low platelet counts
+• Systemic massive bleeding.
+Fresh Frozen Plasma / Cryoprecipitate
+May be considered when there is:
+• Coagulopathy with bleeding.
+Monitoring
+During significant dengue illness, the ICMR workflow emphasizes monitoring of:
+• Heart rate
+• Respiratory rate
+• Blood pressure
+• PCV
+• Platelet count
+• Fluid status
+• Clinical condition
+• Urine output
+• Respiratory status
+In shock management, reassessment is performed repeatedly to determine whether the
+patient is improving or requires escalation of treatment.
+Discharge Criteria
+The ICMR STW specifies that all of the following should be present:
+Clinical
+• No fever for 48 hours
+• Improvement in overall clinical condition
+• Improvement in general well-being
+• Improving appetite
+• Stable hemodynamic status
+• Adequate urine output
+• No significant respiratory distress
+Laboratory
+• Increasing trend in platelet count
+• Stable haematocrit without intravenous fluids.
+The workflow indicates that once the patient is stable, observation should continue and
+discharge can be considered when the discharge criteria are fulfilled.
+Quick Fact Sheet
+Feature Dengue Fever
+ICMR source Standard Treatment Workflow
+ICD-10 A90
+Fever + ≥2 compatible symptoms + exposure to dengueWhen to suspect
+endemic area
+Fever, nausea, vomiting, rash, myalgia, headache, retroKey symptoms
+orbital pain, arthralgia
+Important warning Abdominal pain, persistent vomiting, fluid accumulation,
+signs mucosal bleeding, liver enlargement, shock
+Severe fluid accumulation with respiratory distress, severe
+Severe dengue
+bleeding or impaired consciousness
+Important CBC/PCV, platelets, NS1, IgM and other tests as clinically
+investigations indicated
+Treatment without Symptomatic ambulatory treatment + paracetamol; avoid
+warning signs NSAIDs
+Urgent stabilization, fluid management, monitoring and
+Severe disease/shock
+referral/PICU when required
+Feature Dengue Fever
+Afebrile 48 h + clinical improvement + increasing platelets +
+Discharge
+stable haematocrit without IV fluids
+Official reference
+Indian Council of Medical Research (ICMR), Department of Health Research,
+Ministry of Health & Family Welfare, Government of India. Standard Treatment
+Workflow (STW) for the Management of Dengue Fever, ICD-10-A90, October 2019.
+The official ICMR page lists Dengue fever under its Paediatrics Standard Treatment
+Workflow.

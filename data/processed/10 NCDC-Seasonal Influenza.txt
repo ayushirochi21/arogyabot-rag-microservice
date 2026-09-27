@@ -1,0 +1,228 @@
+10.SEASONAL INFLUENZA
+Overview
+Seasonal influenza, commonly called flu, is a contagious respiratory illness caused by
+influenza viruses. It commonly presents as an acute respiratory illness with sudden
+cough, sore throat and fever, along with symptoms such as body aches, headache
+and fatigue. Most uncomplicated cases recover with supportive care, but influenza can
+become severe and lead to complications, particularly in people at higher risk.
+Key Facts
+• Seasonal influenza is a contagious respiratory illness caused by influenza
+viruses.
+• Typical influenza-like illness (ILI) includes sudden cough and sore throat with
+measured fever ≥100.4°F, with onset within the previous 10 days.
+• Other symptoms may include:
+o Muscle/body aches
+o Headache
+o Fatigue
+o Runny or stuffy nose
+o Vomiting
+o Diarrhea, particularly in children
+• Fever and systemic symptoms usually last around 3 days, although they may
+occasionally persist for 5–8 days.
+• Cough and fatigue/malaise may persist for more than two weeks.
+• Complete recovery may take 1–2 weeks or longer, particularly in older adults.
+Symptoms
+Common symptoms of influenza include:
+• Fever
+• Cough
+• Sore throat
+• Body or muscle aches
+• Headache
+• Fatigue
+• Runny or blocked nose
+• Vomiting
+• Diarrhea, especially in children
+Influenza symptoms usually begin suddenly rather than developing gradually.
+Course of Illness
+Early illness → Fever + respiratory/systemic symptoms → Recovery
+• Fever and systemic symptoms generally last about 3 days.
+• In some patients, symptoms may persist for 5–8 days.
+• Cough and malaise can continue for more than two weeks.
+• Older adults may require a longer period for complete recovery.
+Patient Categorization
+One of the most useful features of the NCDC guideline is its Category A, B and C
+classification.
+Category A — Mild / Uncomplicated
+Patients may have:
+• Mild fever
+• Cough and/or sore throat
+• With or without:
+o Body aches
+o Headache
+o Diarrhea
+o Vomiting
+NCDC guidance:
+• Influenza testing is not required for Category A patients.
+• They generally do not require oseltamivir.
+• Symptomatic treatment is provided.
+• The patient should be monitored and reassessed by a doctor within 24–48 hours.
+• Home isolation and avoidance of contact with the public and high-risk family
+members are advised.
+Category B — More Symptomatic / Higher Risk
+Category B includes patients with more significant symptoms and/or those belonging to
+higher-risk groups.
+Important risk factors include:
+• High-grade fever
+• Severe sore throat
+• Persistent cough
+• Underlying medical conditions
+• Pregnancy
+• Young children
+• Older adults
+Patients in Category B require medical evaluation and appropriate treatment according
+to clinical assessment.
+Category C — Severe Disease
+Category C represents patients with severe symptoms or signs of progressive
+disease.
+These patients require:
+• Immediate medical evaluation
+• Appropriate investigations
+• Antiviral treatment as clinically indicated
+• Immediate hospitalization when Category C criteria are met.
+Important Warning Signs
+Seek urgent medical attention when influenza symptoms are accompanied by:
+• Difficulty in breathing or breathlessness
+• Severe or progressive illness
+• Signs of complications
+• Worsening of an underlying chronic disease
+• Other clinical features suggesting severe influenza
+High-Risk Groups
+NCDC identifies the following groups as being at increased risk of complications:
+• Adults ≥65 years
+• Pregnant women, including up to two weeks postpartum
+• Children <5 years, particularly those <2 years
+• People with chronic respiratory disease
+• People with chronic heart, kidney, liver or neurological disease
+• People with diabetes mellitus
+• People with blood disorders, including haemoglobinopathies
+• Immunosuppressed individuals, including people living with HIV/AIDS
+• People receiving long-term corticosteroids
+• Post-transplant patients
+• People with extreme obesity (BMI ≥40 kg/m²)
+Complications
+Severe or progressive influenza can produce a wide range of complications.
+In children
+Possible complications include:
+• Otitis media
+• Sinusitis
+• Parotitis
+• Pneumonia
+• Croup
+• Bronchiolitis
+• Myocarditis
+• Rhabdomyolysis
+• Encephalopathy/encephalitis
+• Invasive bacterial co-infection
+• Reye syndrome associated with aspirin use
+In adults
+Possible complications include:
+• Exacerbation of chronic diseases
+• Pneumonia
+• Acute respiratory distress syndrome (ARDS)
+• Bronchitis
+• Sinusitis
+• Myocarditis
+• Pericarditis
+• Invasive bacterial co-infection
+• Invasive pulmonary aspergillosis
+Diagnosis and Testing
+Diagnosis begins with clinical assessment and categorization.
+NCDC's Seasonal Influenza resources include separate guidance for:
+• Sample collection
+• Laboratory procedures for influenza-virus detection
+• Laboratory testing facilities
+• Patient reporting
+• Influenza surveillance.
+Important: Not every patient with influenza-like illness requires laboratory testing.
+NCDC's patient-categorization guideline specifically states that testing is not required
+for Category A patients.
+Laboratory testing is particularly relevant when clinically indicated and for surveillance,
+severe cases and appropriate public-health investigations.
+Treatment and Management
+Management depends on the severity and category of illness.
+For mild/uncomplicated illness
+• Rest
+• Adequate fluids
+• Symptomatic treatment
+• Home isolation
+• Monitor symptoms
+• Reassessment if symptoms worsen or fail to improve
+Category A patients generally do not require oseltamivir according to the NCDC
+categorization guidance.
+For higher-risk or severe illness
+Patients who fall into higher-risk or severe categories should be assessed by a
+healthcare professional.
+Oseltamivir/antiviral treatment should be used according to NCDC clinical
+guidance and medical assessment, rather than through self-medication.
+Category C patients should be immediately hospitalized.
+Home Care and Isolation
+NCDC's home-care guidance recommends that people with influenza-like illness or
+appropriate influenza categories:
+• Remain confined at home.
+• Avoid mixing with the public.
+• Avoid close contact with high-risk family members.
+• Stay in a well-ventilated room, preferably separately from other family
+members.
+• Wear a mask as advised.
+• Maintain appropriate respiratory hygiene.
+• Follow medical advice regarding monitoring and treatment.
+NCDC's home-care document advises home isolation for seven days and recommends
+use of a disposable triple-layer mask where available.
+Prevention
+Prevention focuses on reducing transmission and protecting high-risk individuals.
+Personal protection
+• Wear a mask when appropriate, particularly around symptomatic individuals.
+• Cover the mouth and nose when coughing or sneezing.
+• Wash hands regularly.
+• Avoid close contact with people who are ill.
+• Avoid unnecessary public exposure when experiencing influenza-like symptoms.
+• Stay home while recovering according to medical/public-health advice.
+Protect high-risk people
+People with influenza symptoms should particularly avoid close contact with:
+• Older adults
+• Infants and young children
+• Pregnant women
+• People with chronic illnesses
+• Immunocompromised individuals
+Vaccination
+NCDC maintains official guidance on seasonal influenza vaccine composition and
+vaccination and periodically updates recommendations according to the circulating
+influenza viruses and recommended vaccine composition. The NCDC website currently
+lists the vaccine composition for the upcoming 2025–2026 season among its technical
+resources.
+When to Seek Medical Care
+Medical evaluation should be sought when:
+• Symptoms are severe or worsening.
+• There is difficulty breathing or breathlessness.
+• Fever or systemic symptoms persist or worsen.
+• An underlying chronic disease becomes worse.
+• The patient belongs to a high-risk group.
+• There are signs of complications.
+• The patient is a young child, older adult or pregnant.
+• Symptoms do not improve as expected.
+Severe/progressive cases should not be managed at home without medical
+assessment.
+Quick Fact Sheet
+Feature Seasonal Influenza
+Disease Seasonal influenza (flu)
+Cause Influenza viruses
+Main system affected Respiratory system
+Typical onset Sudden
+Major symptoms Fever, cough, sore throat, body aches, headache, fatigue
+Other symptoms Runny/stuffy nose, vomiting, diarrhea
+Typical uncomplicated Fever/systemic symptoms ~3 days; recovery generally 1–2
+course weeks or longer
+Older adults, young children, pregnant women, chronic
+High-risk groups
+disease, immunosuppression
+Diagnosis Clinical assessment ± laboratory testing when indicated
+Feature Seasonal Influenza
+Supportive care; antivirals according to clinical
+Treatment
+category/medical advice
+Respiratory hygiene, masking when appropriate, isolation
+Prevention
+when ill, vaccination
+Require urgent medical assessment and may require
+Severe cases
+hospitalization

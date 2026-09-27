@@ -1,0 +1,445 @@
+id,category,question,answer,manually_correct (fill in Y/N),manually_grounded (fill in Y/N),hallucination_observed (fill in Y/N),notes,response_time_sec,system,model
+1,diabetes,What are the symptoms of diabetes?,"Common symptoms of diabetes often develop because the body is unable to effectively use or produce enough insulin to manage blood sugar levels. While symptoms can vary depending on the type of diabetes and the individual, they often include:
+
+*   **Increased thirst:** Feeling an unusual or persistent need to drink liquids.
+*   **Frequent urination:** Needing to urinate more often than usual, especially at night.
+*   **Extreme hunger:** Feeling very hungry even after eating.
+*   **Unexplained weight loss:** Losing weight without trying.
+*   **Fatigue:** Feeling unusually tired or weak.
+*   **Blurred vision:** Difficulty focusing or seeing clearly.
+*   **Slow-healing sores:** Cuts, bruises, or infections that take a long time to heal.
+*   **Numbness or tingling:** Especially in the hands or feet.
+
+It is important to note that these symptoms can have multiple causes and may not always indicate diabetes. If you are experiencing symptoms or are concerned about your health, please consult a qualified healthcare professional for an accurate assessment and appropriate diagnostic testing.",,,,,6.68,No-RAG,gemini-3.1-flash-lite
+2,diabetes,How can diabetes be prevented?,"Type 2 diabetes, which is the most common form of the disease, can often be prevented or delayed through healthy lifestyle choices. While factors like genetics and age play a role, you can significantly lower your risk by focusing on the following:
+
+*   **Maintain a Healthy Weight:** Losing even a modest amount of weight—if you are overweight—can help your body use insulin better and lower blood sugar levels. 
+*   **Stay Physically Active:** Aim for regular physical activity, such as brisk walking, swimming, or cycling. The goal is to get at least 150 minutes of moderate-intensity exercise per week.
+*   **Eat a Balanced Diet:** Focus on whole foods, including plenty of vegetables, fruits, whole grains, and lean proteins. Limit the intake of sugary drinks, processed snacks, and foods high in saturated fats or refined carbohydrates.
+*   **Quit Smoking:** Smoking is linked to an increased risk of developing diabetes and other serious health complications.
+*   **Manage Blood Pressure and Cholesterol:** Keep your heart healthy by managing these levels, as high blood pressure and cholesterol often go hand-in-hand with insulin resistance.
+*   **Get Regular Screenings:** Because prediabetes and early diabetes often have no symptoms, it is important to have regular check-ups. A healthcare professional can perform blood tests to monitor your glucose levels and help you take early action if necessary.
+
+It is important to note that Type 1 diabetes is an autoimmune condition that cannot be prevented through lifestyle changes. 
+
+If you are concerned about your personal risk factors, please consult with a qualified healthcare professional who can provide personalized guidance based on your medical history.",,,,,2.83,No-RAG,gemini-3.1-flash-lite
+3,stroke,What are the warning signs of a stroke?,"The most common warning signs of a stroke are easily remembered by the acronym **B.E. F.A.S.T.**:
+
+*   **B - Balance:** Sudden loss of balance or coordination, or trouble walking.
+*   **E - Eyes:** Sudden blurred or double vision, or loss of vision in one or both eyes.
+*   **F - Face:** Ask the person to smile. Does one side of the face droop?
+*   **A - Arms:** Ask the person to raise both arms. Does one arm drift downward?
+*   **S - Speech:** Ask the person to repeat a simple phrase. Is their speech slurred, strange, or difficult to understand?
+*   **T - Time:** If you observe any of these signs, even if they go away, call emergency services immediately. Time is critical for stroke treatment.
+
+**Other common symptoms include:**
+*   Sudden, severe headache with no known cause.
+*   Sudden confusion or trouble understanding others.
+*   Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body.
+
+If you believe someone is experiencing these symptoms, call emergency services right away. Do not wait to see if the symptoms go away.
+
+***
+
+*Note: Symptoms can have multiple causes and may indicate conditions other than a stroke. If you are experiencing concerning symptoms, please consult a qualified healthcare professional or seek immediate medical attention.*",,,,,3.4,No-RAG,gemini-3.1-flash-lite
+4,asthma,What triggers asthma attacks?,"Asthma attacks are triggered when the airways in the lungs become inflamed, swollen, or narrowed, making it difficult to breathe. While triggers vary from person to person, they generally fall into several common categories:
+
+*   **Allergens:** Substances such as pollen, pet dander, dust mites, mold, and cockroach droppings are frequent triggers.
+*   **Irritants in the air:** Tobacco smoke, air pollution, strong odors (like perfumes or cleaning products), and chemical fumes can irritate the airways.
+*   **Respiratory infections:** Colds, the flu, sinus infections, and other viral respiratory illnesses are very common triggers.
+*   **Physical activity:** For many people, exercise can trigger symptoms, especially in cold or dry air.
+*   **Weather changes:** Cold air, high humidity, or sudden changes in temperature can affect breathing.
+*   **Emotional stress:** Intense emotions, such as laughing very hard, crying, or experiencing significant stress, can sometimes cause hyperventilation and trigger an attack.
+*   **Certain medications:** Some people are sensitive to aspirin or beta-blockers.
+*   **Reflux:** Gastroesophageal reflux disease (GERD), where stomach acid moves into the throat, can worsen asthma symptoms.
+
+Because asthma symptoms can be caused by many different factors and can be life-threatening if not managed correctly, it is important to work with a healthcare professional to identify your specific triggers and develop an asthma action plan. If you are experiencing symptoms, please consult a qualified healthcare provider for an accurate diagnosis and personalized guidance.",,,,,2.3,No-RAG,gemini-3.1-flash-lite
+5,chikungunya,What are the symptoms of chikungunya?,"Chikungunya is a viral disease spread to humans through the bite of infected mosquitoes. Symptoms typically begin three to seven days after a person is bitten.
+
+The most common symptoms include:
+
+*   **Fever:** Often a sudden onset of high fever.
+*   **Joint pain:** This is the most characteristic symptom. It can be severe, debilitating, and often affects the joints in the hands, wrists, ankles, and feet.
+*   **Rash:** Many people develop a skin rash, often appearing on the trunk or limbs.
+*   **Muscle pain:** General aches and pains in the muscles.
+*   **Headache:** Persistent or severe headache.
+*   **Fatigue:** Feeling very tired or worn out.
+*   **Nausea or vomiting:** Some individuals may experience gastrointestinal symptoms.
+
+While many people recover within a week, some individuals may experience joint pain that persists for weeks, months, or even years.
+
+It is important to note that these symptoms can have multiple causes, as they overlap with other illnesses like dengue or Zika virus. If you are experiencing symptoms, please consult a qualified healthcare professional for an accurate assessment and medical advice.",,,,,2.15,No-RAG,gemini-3.1-flash-lite
+6,dengue,What are the symptoms of dengue fever?,"Dengue fever is a viral infection transmitted to humans through the bite of infected mosquitoes. Symptoms typically begin four to ten days after being bitten.
+
+Common symptoms of dengue fever include:
+
+*   **High fever:** A sudden onset of high fever, often reaching 104°F (40°C).
+*   **Severe headache:** Often centered behind the eyes.
+*   **Joint, muscle, and bone pain:** This is why dengue is sometimes referred to as ""breakbone fever.""
+*   **Rash:** A skin rash may appear a few days after the fever begins.
+*   **Nausea and vomiting:** General feelings of stomach discomfort.
+*   **Fatigue:** Feeling unusually tired or weak.
+*   **Mild bleeding:** Such as nose or gum bleeding, or easy bruising.
+
+It is important to note that these symptoms can vary in severity and may mimic other illnesses. Because symptoms can have multiple causes, it is not possible to determine if you have dengue based on these symptoms alone. 
+
+If you are experiencing symptoms, please consult a qualified healthcare professional for an accurate diagnosis and appropriate medical advice. Seek immediate emergency care if you experience warning signs such as severe abdominal pain, persistent vomiting, bleeding under the skin, or difficulty breathing.",,,,,2.51,No-RAG,gemini-3.1-flash-lite
+7,dengue,How can dengue be prevented?,"Dengue fever is primarily spread through the bite of infected *Aedes* mosquitoes, which typically bite during the day. Prevention focuses on avoiding mosquito bites and reducing mosquito breeding sites.
+
+To help prevent dengue, you can take the following steps:
+
+**1. Eliminate Breeding Sites**
+Mosquitoes that carry dengue breed in stagnant, standing water. You can reduce their population by:
+*   **Emptying containers:** Regularly empty, scrub, cover, or dispose of items that hold standing water, such as buckets, flower pots, old tires, bird baths, and pet water bowls.
+*   **Covering storage:** Keep water storage containers like barrels or tanks tightly covered so mosquitoes cannot get inside to lay eggs.
+*   **Cleaning gutters:** Ensure roof gutters are clear of debris so water can drain properly.
+
+**2. Protect Yourself from Bites**
+*   **Use insect repellent:** Apply EPA-registered insect repellents containing DEET, Picaridin, IR3535, or oil of lemon eucalyptus to exposed skin.
+*   **Wear protective clothing:** When outdoors, wear long-sleeved shirts and long pants, ideally in light colors.
+*   **Use window and door screens:** Ensure your home has well-fitted screens on windows and doors to keep mosquitoes out.
+*   **Use mosquito netting:** If you are sleeping in an area without screens or air conditioning, use a mosquito bed net.
+
+**3. Community Action**
+Public health efforts, such as community clean-up campaigns to remove trash and standing water, are effective in lowering the local mosquito population.
+
+If you are experiencing symptoms like high fever, severe headache, pain behind the eyes, or joint and muscle pain, please consult a qualified healthcare professional. Symptoms can have many causes, and a doctor can provide an accurate diagnosis and appropriate care.",,,,,3.66,No-RAG,gemini-3.1-flash-lite
+8,hypertension,What causes high blood pressure?,"High blood pressure, also known as hypertension, is often caused by a combination of factors. In most cases, it develops gradually over time, and the exact cause may not be clear for any single individual. This is referred to as primary (or essential) hypertension.
+
+Common factors that contribute to the development of high blood pressure include:
+
+*   **Lifestyle choices:** Diets high in salt (sodium), a lack of regular physical activity, smoking, and excessive alcohol consumption can all increase your risk.
+*   **Genetics and family history:** If high blood pressure runs in your family, you are statistically more likely to develop it.
+*   **Age:** As people get older, blood vessels naturally become stiffer, which can cause blood pressure to rise.
+*   **Weight:** Being overweight or obese places extra strain on the heart and blood vessels.
+*   **Underlying medical conditions:** Sometimes, high blood pressure is a symptom of another issue, such as kidney disease, thyroid problems, or sleep apnea. This is known as secondary hypertension.
+*   **Chronic stress:** Long-term stress may contribute to higher blood pressure levels, sometimes through unhealthy coping behaviors like poor diet or lack of sleep.
+
+Because high blood pressure often has no obvious symptoms, it is frequently called a ""silent killer."" The only way to know if your blood pressure is high is to have it measured by a healthcare provider. 
+
+If you are concerned about your blood pressure or are experiencing symptoms, please consult a qualified healthcare professional. Symptoms can have many different causes, and only a doctor can provide an accurate assessment and personalized medical advice.",,,,,3.96,No-RAG,gemini-3.1-flash-lite
+9,malaria,How is malaria transmitted?,"Malaria is primarily transmitted through the bite of an infected female *Anopheles* mosquito. 
+
+Here is a simple breakdown of how this happens:
+
+1.  **The Mosquito Bite:** When a female *Anopheles* mosquito bites a person who is already infected with malaria, it ingests blood containing the malaria parasite.
+2.  **Development:** The parasite develops inside the mosquito over several days.
+3.  **Transmission:** When that same mosquito bites another person, it injects the parasites into that person's bloodstream along with its saliva. Once in the body, the parasites travel to the liver, where they mature and multiply before infecting red blood cells.
+
+While mosquito bites are the primary way malaria spreads, it can also be transmitted less commonly through:
+*   **Blood transfusions:** If the donated blood contains the parasite.
+*   **Organ transplants:** From an infected donor.
+*   **Shared needles:** If the needles are contaminated with infected blood.
+*   **Congenital transmission:** From a pregnant mother to her baby before or during birth.
+
+Malaria is not contagious, meaning it cannot be spread through casual contact, such as hugging, touching, or sharing food with an infected person.",,,,,2.28,No-RAG,gemini-3.1-flash-lite
+10,seasonal influenza,What are the symptoms of seasonal flu?,"Seasonal influenza (the flu) is a contagious respiratory illness caused by influenza viruses. Symptoms typically appear suddenly and can include:
+
+*   **Fever or feeling feverish/chills** (though not everyone with the flu will develop a fever).
+*   **Cough.**
+*   **Sore throat.**
+*   **Runny or stuffy nose.**
+*   **Muscle or body aches.**
+*   **Headaches.**
+*   **Fatigue** (feeling very tired).
+*   **Vomiting and diarrhea:** This is more common in children than in adults.
+
+It is important to note that many different illnesses can cause these same symptoms. Because symptoms can have multiple causes, it is impossible to distinguish the flu from other respiratory illnesses based on symptoms alone.
+
+If you are experiencing these symptoms, please consult a qualified healthcare professional for an accurate diagnosis and appropriate medical advice. Seek immediate medical attention if you experience severe symptoms, such as difficulty breathing, persistent chest pain, or sudden dizziness.",,,,,2.24,No-RAG,gemini-3.1-flash-lite
+11,tuberculosis,How is TB treated?,"Tuberculosis (TB) is a bacterial infection that is treated with a course of prescription antibiotics. Because the bacteria that cause TB grow slowly and can become resistant to medication, treatment is a multi-step process:
+
+*   **Combination therapy:** Patients are typically prescribed several different antibiotics at the same time to ensure all the bacteria are killed and to prevent drug resistance.
+*   **Duration:** Treatment is long-term. Even for standard cases of TB, a full course of medication typically lasts between six to nine months.
+*   **Consistency:** It is critical to take the medication exactly as prescribed and to finish the entire course, even if you start feeling better after a few weeks. Stopping the medication too early can allow the bacteria to survive, potentially leading to a more serious, drug-resistant form of the disease that is much harder to treat.
+*   **Supervision:** In many public health programs, healthcare providers use ""Directly Observed Therapy"" (DOT). This means a health worker or another designated individual watches the patient take their medication to ensure they adhere to the full treatment plan.
+
+If you are being treated for TB or believe you may have been exposed, it is important to follow the specific guidance of your healthcare provider or local public health department, as treatment plans can vary based on the type of TB and the patient's individual health history.",,,,,2.21,No-RAG,gemini-3.1-flash-lite
+12,typhoid,How can typhoid be prevented?,"Typhoid fever is a bacterial infection caused by *Salmonella* Typhi. It is primarily spread through contaminated food and water or contact with an infected person.
+
+You can help prevent typhoid through the following measures:
+
+*   **Practice Good Hand Hygiene:** Always wash your hands thoroughly with soap and water before eating, preparing food, and after using the restroom. If soap and water are not available, use an alcohol-based hand sanitizer.
+*   **Drink Safe Water:** Drink only bottled, boiled, or chemically treated water. Avoid using ice unless you are certain it is made from safe, treated water.
+*   **Eat Safe Food:** Choose foods that are thoroughly cooked and served steaming hot. Avoid raw fruits and vegetables unless you can peel them yourself. Avoid food from street vendors or sources where hygiene is questionable.
+*   **Get Vaccinated:** There are vaccines available that can help protect against typhoid fever. Vaccination is particularly recommended for those traveling to regions where typhoid is common or for individuals who may be exposed to the bacteria through their work. Consult a healthcare provider to determine if vaccination is appropriate for you.
+*   **Maintain Proper Sanitation:** Ensure proper sewage disposal and avoid contact with water sources that may be contaminated with sewage.
+
+If you are concerned about exposure to typhoid or are experiencing symptoms, please consult a qualified healthcare professional. Symptoms of illness can have many different causes, and only a medical professional can provide an accurate diagnosis and appropriate guidance.",,,,,3.05,No-RAG,gemini-3.1-flash-lite
+13,off-topic,What is your favorite color?,"I am a public health information assistant, and I am intended to answer questions related to public health. Therefore, I do not have personal preferences like a favorite color. How can I assist you with a public health topic today?",,,,,1.54,No-RAG,gemini-3.1-flash-lite
+14,off-topic,Who created you?,"I am a large language model, trained by Google. I am intended to provide general public-health-related information.",,,,,2.24,No-RAG,gemini-3.1-flash-lite
+15,off-topic,Tell me a joke?,"I am a public health information assistant, and I am intended for questions related to public health. I cannot provide jokes. If you have any questions regarding health or wellness, I would be happy to help you with those.",,,,,0.99,No-RAG,gemini-3.1-flash-lite
+16,cardiovascular disease,What are the symptoms of a heart attack?,"A heart attack (medically known as a myocardial infarction) occurs when blood flow to a part of the heart is blocked. Symptoms can vary significantly from person to person, and some individuals experience mild symptoms while others have severe ones. 
+
+Common symptoms include:
+
+*   **Chest discomfort:** This is the most common symptom. It often feels like pressure, squeezing, fullness, or pain in the center or left side of the chest. It can last for more than a few minutes or go away and come back.
+*   **Discomfort in other areas of the upper body:** Pain or discomfort can spread to one or both arms, the back, neck, jaw, or stomach.
+*   **Shortness of breath:** This may occur with or without chest discomfort.
+*   **Other signs:** You may experience cold sweats, nausea, lightheadedness, or sudden unexplained fatigue.
+
+It is important to note that symptoms can have multiple causes and may be different for everyone. For example, some people—particularly women, older adults, and those with diabetes—may experience more subtle symptoms like extreme fatigue or nausea rather than traditional chest pain.
+
+**If you or someone else is experiencing these symptoms, call emergency services immediately.** A heart attack is a medical emergency that requires prompt professional intervention. Because symptoms can be caused by many different health issues, you should consult a qualified healthcare professional to receive an accurate assessment of your specific health concerns.",,,,,1.96,No-RAG,gemini-3.1-flash-lite
+17,cardiovascular disease,How can cardiovascular disease be prevented?,"Cardiovascular disease (CVD) refers to conditions that affect the heart and blood vessels. While some risk factors like age and genetics cannot be changed, many cases of cardiovascular disease can be prevented or delayed by adopting a heart-healthy lifestyle.
+
+Here are general public health recommendations for reducing the risk of cardiovascular disease:
+
+*   **Eat a heart-healthy diet:** Focus on a diet rich in fruits, vegetables, whole grains, and lean proteins (such as fish, beans, or skinless poultry). Try to limit the intake of saturated fats, trans fats, added sugars, and excessive salt, as these can contribute to high cholesterol and high blood pressure.
+*   **Stay physically active:** Aim for at least 150 minutes of moderate-intensity aerobic activity (like brisk walking) or 75 minutes of vigorous activity each week. Regular movement helps maintain a healthy weight, improves circulation, and strengthens the heart muscle.
+*   **Avoid tobacco use:** Smoking and exposure to secondhand smoke are major contributors to heart disease. Quitting smoking is one of the most effective ways to improve heart health almost immediately.
+*   **Maintain a healthy weight:** Excess weight can put extra strain on the heart and increases the risk of developing conditions like type 2 diabetes and high blood pressure, both of which are risk factors for CVD.
+*   **Manage stress:** Chronic stress can lead to unhealthy behaviors or physiological changes that impact heart health. Finding healthy ways to cope with stress, such as exercise, meditation, or hobbies, is beneficial.
+*   **Limit alcohol intake:** Excessive alcohol consumption can raise blood pressure and contribute to heart-related issues. If you choose to drink, it should be done in moderation.
+*   **Monitor your health markers:** Regularly check your blood pressure, cholesterol levels, and blood sugar levels with a healthcare provider. Many heart conditions do not have obvious symptoms in the early stages, so routine screening is important for early detection and management.
+
+If you are concerned about your personal risk for cardiovascular disease or are experiencing symptoms, please consult a qualified healthcare professional. Symptoms can have multiple causes, and a doctor can provide an assessment based on your individual health history.",,,,,3.48,No-RAG,gemini-3.1-flash-lite
+18,COPD,What are the symptoms of COPD?,"Chronic Obstructive Pulmonary Disease (COPD) is a progressive lung condition that makes it difficult to breathe. Because symptoms can vary from person to person and may overlap with other respiratory issues, it is important to consult a healthcare professional for an accurate diagnosis.
+
+Common signs and symptoms associated with COPD include:
+
+*   **Persistent cough:** This is often referred to as a ""smoker's cough,"" which may produce mucus (sputum) that can be clear, white, yellow, or greenish.
+*   **Shortness of breath:** You may notice this especially during physical activities or exercise.
+*   **Wheezing:** A whistling or squeaky sound when you breathe.
+*   **Chest tightness:** A feeling of pressure or discomfort in the chest area.
+*   **Frequent respiratory infections:** People with COPD may get colds, the flu, or other lung infections more often than others.
+*   **Lack of energy:** Feeling tired or fatigued more easily.
+*   **Swelling:** In later stages, you may notice swelling in the ankles, feet, or legs.
+
+These symptoms often develop slowly and worsen over time. If you are experiencing these symptoms, please reach out to a qualified healthcare professional, as they can have multiple causes and require a proper clinical evaluation.",,,,,1.84,No-RAG,gemini-3.1-flash-lite
+19,COPD,What causes chronic obstructive pulmonary disease?,"Chronic obstructive pulmonary disease (COPD) is a progressive lung condition that makes it hard to breathe. It is primarily caused by long-term exposure to substances that irritate and damage the lungs.
+
+The most common causes and risk factors include:
+
+*   **Tobacco Smoke:** Cigarette, pipe, and cigar smoking is the leading cause of COPD. Inhaling smoke from others (secondhand smoke) can also contribute to the risk.
+*   **Air Pollution and Chemical Exposure:** Long-term exposure to air pollutants, chemical fumes, vapors, and dust in certain workplaces can damage the lungs over time.
+*   **Genetics:** A rare genetic condition called alpha-1 antitrypsin deficiency can cause COPD, even in people who have never smoked or been exposed to significant air pollution. 
+*   **Respiratory Infections:** Frequent or severe lung infections during childhood can affect lung development and increase the risk of developing COPD later in life.
+
+If you are experiencing symptoms such as persistent coughing, shortness of breath, or wheezing, please consult a qualified healthcare professional. Symptoms like these can have multiple causes, and a doctor can provide an accurate diagnosis and discuss appropriate care.",,,,,1.74,No-RAG,gemini-3.1-flash-lite
+20,leprosy,What are the early signs of leprosy?,"Leprosy, also known as Hansen’s disease, is a chronic infectious disease that primarily affects the skin, the peripheral nerves, mucosal surfaces of the upper respiratory tract, and the eyes. 
+
+Early signs and symptoms of leprosy typically include:
+
+*   **Skin lesions:** These often appear as patches of skin that are lighter (hypopigmented), reddish, or copper-colored. These patches may be flat or slightly raised.
+*   **Loss of sensation:** A key indicator of leprosy is that these skin patches often have reduced or complete loss of sensation. You may not feel light touch, pain, or temperature (heat/cold) in the affected area.
+*   **Nerve issues:** You might notice numbness, tingling, or a ""pins and needles"" sensation in your hands or feet. In some cases, peripheral nerves (nerves outside the brain and spinal cord) may feel thickened or enlarged upon touch.
+*   **Muscle weakness:** Early signs can include weakness in the muscles of the hands or feet, which may lead to difficulty gripping objects or a change in how you walk.
+
+Because these symptoms can be caused by many other skin or neurological conditions, it is impossible to diagnose leprosy based on symptoms alone. If you are experiencing changes in your skin or loss of sensation, you should consult a qualified healthcare professional for a proper evaluation, testing, and, if necessary, treatment. Early diagnosis and treatment are very effective at preventing complications and permanent nerve damage.",,,,,2.6,No-RAG,gemini-3.1-flash-lite
+21,leprosy,Is leprosy curable?,"Yes, leprosy (also known as Hansen’s disease) is curable.
+
+It is treated with a combination of antibiotics known as Multi-Drug Therapy (MDT). This treatment typically lasts for several months to a year, depending on the severity of the infection. When a person begins this treatment, they quickly become non-infectious, meaning they can no longer spread the bacteria to others.
+
+If you are concerned about symptoms or potential exposure, it is important to consult a qualified healthcare professional. Symptoms of skin conditions or nerve issues can have multiple causes, and only a doctor can provide an accurate diagnosis and appropriate treatment plan.",,,,,2.61,No-RAG,gemini-3.1-flash-lite
+22,cholera,What causes cholera?,"Cholera is an acute diarrheal infection caused by the ingestion of food or water contaminated with the bacterium *Vibrio cholerae*.
+
+The bacteria typically enter the body through the mouth, often through the consumption of water or food that has been contaminated by the feces of an infected person. In areas with inadequate sanitation and poor access to clean drinking water, the bacteria can spread rapidly, especially in settings where sewage and drinking water supplies are not properly separated.
+
+Common ways the bacteria are spread include:
+*   Drinking water contaminated by fecal matter.
+*   Eating raw or undercooked shellfish harvested from waters where the bacteria are present.
+*   Eating raw fruits, vegetables, or other foods that have been washed or prepared with contaminated water.
+
+If you are experiencing severe symptoms such as watery diarrhea or vomiting, please be aware that these symptoms can have many different causes. You should consult a qualified healthcare professional to receive an accurate diagnosis and appropriate medical care.",,,,,2.43,No-RAG,gemini-3.1-flash-lite
+23,cholera,How is cholera treated?,"Cholera is an acute diarrheal infection caused by ingestion of food or water contaminated with the bacterium *Vibrio cholerae*. Because the infection causes rapid and severe loss of fluids and electrolytes, the primary goal of treatment is rehydration.
+
+Treatment typically includes the following approaches:
+
+*   **Oral Rehydration Salts (ORS):** For most patients, this is the first line of treatment. ORS is a pre-packaged mixture of sugar and salts that is dissolved in water and consumed to replace the fluids and electrolytes lost through diarrhea and vomiting.
+*   **Intravenous (IV) Fluids:** In cases of severe dehydration where the patient is unable to drink enough fluid or is in shock, IV fluids are necessary to restore fluid balance quickly.
+*   **Antibiotics:** Antibiotics are often used for severely ill patients. They can help shorten the duration of the illness, reduce the volume of fluid required for rehydration, and reduce the shedding of the bacteria in stool.
+*   **Zinc Supplementation:** In children, zinc supplementation has been shown to reduce the severity and duration of diarrhea.
+
+**Important Note:** Cholera can lead to death within hours if left untreated. If you or someone you know is experiencing severe, watery diarrhea or signs of dehydration (such as extreme thirst, dry mouth, little or no urination, or lethargy), seek immediate medical attention from a qualified healthcare professional. 
+
+Symptoms like these can have multiple causes, and only a healthcare provider can provide an accurate diagnosis and appropriate treatment plan.",,,,,1.8,No-RAG,gemini-3.1-flash-lite
+24,Japanese encephalitis,What are the symptoms of Japanese encephalitis?,"Japanese encephalitis is a viral infection that affects the brain. Symptoms can vary significantly from person to person, and it is important to note that many people infected with the virus show no symptoms or have only mild illness.
+
+When symptoms do occur, they generally fall into two categories:
+
+**Mild Illness**
+In milder cases, symptoms often resemble those of the flu and may include:
+*   Fever
+*   Headache
+*   General malaise or fatigue
+
+**Severe Illness**
+In more serious cases, the virus can cause inflammation of the brain (encephalitis). These symptoms typically develop over several days and may include:
+*   High fever
+*   Severe headache
+*   Stiff neck
+*   Disorientation or confusion
+*   Seizures
+*   Sensitivity to light
+*   Muscle weakness or tremors
+*   Loss of consciousness or coma
+
+Because these symptoms can be caused by many different health conditions, it is impossible to determine the cause based on symptoms alone. If you are concerned about your health or are experiencing any of these symptoms, especially after travel to an area where Japanese encephalitis is known to exist, please consult a qualified healthcare professional for an accurate evaluation and diagnosis.",,,,,2.74,No-RAG,gemini-3.1-flash-lite
+25,Japanese encephalitis,How is Japanese encephalitis prevented?,"Japanese encephalitis (JE) is a viral infection spread to humans through the bite of infected mosquitoes. Because there is no specific treatment for the disease, prevention focuses on avoiding mosquito bites and vaccination.
+
+Here are the primary ways to prevent Japanese encephalitis:
+
+**1. Vaccination**
+The most effective way to prevent Japanese encephalitis is by receiving the Japanese encephalitis vaccine. Vaccination is generally recommended for:
+*   People who live in areas where the virus is common (primarily in parts of Asia and the Western Pacific).
+*   Travelers who plan to spend a significant amount of time in rural areas in these regions, especially during the transmission season.
+
+**2. Personal Protective Measures**
+Since mosquitoes transmit the virus, preventing bites is essential. You can reduce your risk by:
+*   **Using insect repellent:** Apply an EPA-registered insect repellent containing DEET, Picaridin, IR3535, or oil of lemon eucalyptus to exposed skin.
+*   **Wearing appropriate clothing:** When outdoors, wear long-sleeved shirts, long pants, and socks to cover as much skin as possible. Treating clothing and gear with permethrin can provide extra protection.
+*   **Controlling the environment:** Stay in accommodations that have air conditioning or well-fitted window and door screens to keep mosquitoes out. If you are sleeping in an area without screens or air conditioning, use a mosquito net over your bed.
+*   **Timing:** Mosquitoes that carry JE are most active during the evening and at night. Limiting outdoor activities during these times can reduce exposure.
+
+If you are planning to travel to an area where Japanese encephalitis is present, it is recommended that you consult with a travel clinic or your healthcare provider well in advance to discuss vaccination and other specific protective measures tailored to your itinerary.",,,,,2.35,No-RAG,gemini-3.1-flash-lite
+26,Kala-azar,What are the symptoms of Kala-azar?,"Kala-azar, also known as visceral leishmaniasis, is a parasitic disease spread by the bite of infected sandflies. 
+
+Symptoms can vary from person to person and may not appear for weeks or even months after exposure. Because these symptoms can be caused by many different illnesses, it is important to consult a qualified healthcare professional for an accurate diagnosis and treatment if you are concerned about your health.
+
+Common symptoms associated with Kala-azar include:
+
+*   **Fever:** Often long-lasting and irregular.
+*   **Weight loss:** Significant and unexplained loss of body weight.
+*   **Enlarged organs:** Swelling of the spleen (which may be felt as a hard mass in the abdomen) and sometimes enlargement of the liver.
+*   **Anemia:** A decrease in red blood cells, which can lead to fatigue, weakness, and pale skin.
+*   **Skin changes:** Some people may notice a darkening or graying of the skin, particularly on the hands, feet, abdomen, and face.
+*   **Immune suppression:** Because the disease affects the immune system, individuals may become more susceptible to other infections.
+
+If you or someone you know is experiencing these symptoms, please seek medical attention from a healthcare provider for proper evaluation and testing.",,,,,1.99,No-RAG,gemini-3.1-flash-lite
+27,Kala-azar,How is visceral leishmaniasis transmitted?,"Visceral leishmaniasis is transmitted to humans through the bite of an infected female phlebotomine sandfly. 
+
+These sandflies become infected when they bite an animal or a person who already has the *Leishmania* parasite in their blood. The parasite then develops within the fly and is passed on to the next person the fly bites. 
+
+In some parts of the world, the disease is maintained in nature through cycles between sandflies and animal reservoirs (such as dogs or wild rodents). Humans become part of the transmission cycle when they are bitten by a sandfly that has previously fed on an infected host. 
+
+The disease is not spread through casual contact like touching, coughing, or sneezing. If you have concerns about potential exposure or symptoms, please consult a qualified healthcare professional, as symptoms can be caused by various health conditions.",,,,,1.52,No-RAG,gemini-3.1-flash-lite
+28,lymphatic filariasis,What causes lymphatic filariasis?,"Lymphatic filariasis, commonly known as elephantiasis, is caused by an infection with parasitic worms. 
+
+These microscopic, thread-like worms are transmitted to humans through the bites of infected mosquitoes. When an infected mosquito bites a person, the worm larvae enter the skin and migrate to the lymphatic system. Over time, the worms grow into adults and live in the lymphatic vessels, where they can survive for several years.
+
+The presence of these worms disrupts the normal function of the lymphatic system, which is responsible for balancing fluids in the body. This blockage causes fluid to collect in the tissues, leading to the severe swelling and skin thickening often associated with the condition. 
+
+Because symptoms of lymphatic swelling can be caused by many different medical issues, anyone concerned about persistent swelling or related health issues should consult a qualified healthcare professional for an accurate diagnosis and appropriate care.",,,,,1.99,No-RAG,gemini-3.1-flash-lite
+29,lymphatic filariasis,How can lymphatic filariasis be prevented?,"Lymphatic filariasis, commonly known as elephantiasis, is a parasitic disease spread by mosquitoes. Because it is transmitted through mosquito bites, the most effective way to prevent the disease is to avoid being bitten.
+
+Key strategies for prevention include:
+
+*   **Vector Control:** This involves reducing the number of mosquitoes in your environment. You can do this by using insecticide-treated bed nets, applying insect repellent, wearing long-sleeved shirts and pants, and installing window screens. It is also important to eliminate mosquito breeding sites, such as standing water in containers, old tires, or blocked gutters.
+*   **Preventive Chemotherapy:** In areas where the disease is common, public health programs often carry out ""mass drug administration."" This involves providing the entire community with safe, effective medicines (such as ivermectin, diethylcarbamazine, or albendazole) once a year to clear the parasites from the population and stop the spread of the infection.
+
+If you are concerned about your risk of contracting lymphatic filariasis or live in or are traveling to an area where the disease is endemic, please consult with a qualified healthcare professional or a local public health clinic for the most relevant and localized prevention guidance.",,,,,2.13,No-RAG,gemini-3.1-flash-lite
+30,HIV/AIDS,How is HIV transmitted?,"HIV (human immunodeficiency virus) is transmitted through the exchange of certain bodily fluids from a person who has HIV. These fluids include:
+
+*   Blood
+*   Semen and pre-seminal fluid
+*   Rectal fluids
+*   Vaginal fluids
+*   Breast milk
+
+For transmission to occur, these fluids must come into contact with a mucous membrane (such as the lining of the rectum, vagina, penis, or mouth), damaged tissue, or be injected directly into the bloodstream (such as through needle sharing).
+
+Common ways HIV is transmitted include:
+
+*   **Sexual contact:** Having unprotected vaginal, anal, or oral sex with a person who has HIV.
+*   **Sharing needles or syringes:** Using equipment to inject drugs that has been used by someone with HIV.
+*   **Perinatal transmission:** Transmission from a person with HIV to their child during pregnancy, birth, or breastfeeding.
+
+**Important points regarding transmission:**
+
+*   **HIV is NOT spread through** casual contact such as hugging, shaking hands, sharing toilets, sharing dishes, or closed-mouth kissing.
+*   **HIV is NOT spread by** insects like mosquitoes, ticks, or other bugs.
+*   **Effective treatment:** People with HIV who take antiretroviral therapy (ART) as prescribed and achieve an undetectable viral load cannot transmit the virus to their sexual partners.
+
+If you have concerns about potential exposure to HIV, it is important to consult a healthcare professional or a local public health clinic as soon as possible to discuss testing and options for post-exposure prophylaxis (PEP).",,,,,2.0,No-RAG,gemini-3.1-flash-lite
+31,HIV/AIDS,What are the early symptoms of HIV infection?,"Early HIV infection, often referred to as acute HIV infection or acute retroviral syndrome, occurs in many, though not all, people within two to four weeks after exposure to the virus. During this time, the body’s immune system is reacting to the initial viral infection.
+
+Common early symptoms often resemble those of the flu or other viral illnesses and may include:
+
+*   Fever
+*   Chills
+*   Rash
+*   Night sweats
+*   Muscle aches
+*   Sore throat
+*   Fatigue
+*   Swollen lymph nodes
+*   Mouth ulcers
+
+These symptoms can range from mild to severe and typically last for a few days to several weeks. It is important to note that these symptoms can have many causes; having them does not necessarily mean you have HIV. Some people experience no symptoms at all during the early stage of infection.
+
+If you are concerned about potential exposure to HIV, the only way to know your status is to get tested. Please consult with a qualified healthcare professional or visit a local clinic to discuss testing options, receive an accurate diagnosis, and address any health concerns you may have.",,,,,2.21,No-RAG,gemini-3.1-flash-lite
+32,hepatitis,What are the symptoms of viral hepatitis?,"Viral hepatitis refers to inflammation of the liver caused by a virus. While some people may have no symptoms at all, others may experience symptoms that can range from mild to severe. Because these symptoms can also be caused by many other health conditions, it is not possible to determine if you have hepatitis based on symptoms alone.
+
+Common symptoms associated with viral hepatitis may include:
+
+*   **Jaundice:** A yellowing of the skin and the whites of the eyes.
+*   **Fatigue:** Feeling unusually tired or lacking energy.
+*   **Abdominal pain:** Specifically in the upper right side of the abdomen, where the liver is located.
+*   **Digestive issues:** Loss of appetite, nausea, or vomiting.
+*   **Dark-colored urine:** Urine that appears brown or tea-colored.
+*   **Pale or clay-colored stools.**
+*   **Joint pain.**
+*   **Fever.**
+
+It is important to note that symptoms can vary depending on the type of hepatitis (such as A, B, or C) and whether the infection is acute (short-term) or chronic (long-term). 
+
+If you are concerned about symptoms you are experiencing, please consult a qualified healthcare professional. Only a doctor can perform the necessary blood tests and physical examinations to provide an accurate diagnosis and discuss appropriate care.",,,,,2.05,No-RAG,gemini-3.1-flash-lite
+33,hepatitis,How can hepatitis B be prevented?,"Hepatitis B is a viral infection that affects the liver. It can be prevented through several key measures:
+
+*   **Vaccination:** The most effective way to prevent hepatitis B is to get the hepatitis B vaccine. It is highly safe and effective, and it is routinely recommended for infants, children, and adults at risk.
+*   **Safe Sexual Practices:** Using barrier methods, such as condoms, during sexual activity can significantly reduce the risk of transmission.
+*   **Avoid Sharing Personal Items:** Do not share items that may be contaminated with blood, such as razors, toothbrushes, or needles used for injecting drugs.
+*   **Safe Medical and Cosmetic Procedures:** Ensure that any medical or dental equipment is properly sterilized. If you get a tattoo or body piercing, make sure the establishment uses sterile, single-use needles and equipment.
+*   **Screening for Pregnant Individuals:** Pregnant individuals should be tested for hepatitis B. If an individual tests positive, medical interventions can be provided to the newborn shortly after birth to prevent transmission from the parent to the baby.
+
+If you have concerns about your personal risk or exposure to hepatitis B, please consult a qualified healthcare professional, who can provide testing and guidance tailored to your health needs.",,,,,1.8,No-RAG,gemini-3.1-flash-lite
+34,mental health,What are common signs of depression?,"Depression is a mental health condition that affects how a person feels, thinks, and handles daily activities. Symptoms can vary significantly from person to person, and they can have many different causes. 
+
+Common signs and symptoms often include:
+
+*   **Persistent sadness:** Feeling down, hopeless, or ""empty"" most of the time.
+*   **Loss of interest:** No longer finding pleasure in activities, hobbies, or social interactions that were once enjoyable.
+*   **Changes in appetite or weight:** Noticeable weight loss or gain, or a significant decrease or increase in appetite.
+*   **Sleep disturbances:** Difficulty falling asleep, staying asleep, or sleeping significantly more than usual.
+*   **Fatigue:** Feeling exhausted, physically slowed down, or lacking energy nearly every day.
+*   **Difficulty concentrating:** Problems with focus, decision-making, or memory.
+*   **Feelings of worthlessness or guilt:** Persistent negative thoughts about oneself or feeling excessive, inappropriate guilt.
+*   **Physical symptoms:** Unexplained aches, pains, or digestive issues that do not improve with treatment.
+*   **Irritability:** Feeling restless, agitated, or easily frustrated.
+*   **Thoughts of death:** Recurrent thoughts of death or suicide.
+
+Because these symptoms can be caused by a variety of medical, psychological, or environmental factors, it is important not to self-diagnose. If you or someone you know is experiencing these symptoms, please consult a qualified healthcare professional, such as a primary care doctor or a mental health specialist, for an accurate evaluation and support.
+
+**If you or someone you know is in immediate distress or considering self-harm, please reach out to a crisis hotline or emergency services in your area immediately.**",,,,,2.24,No-RAG,gemini-3.1-flash-lite
+35,mental health,When should someone seek help for depression?,"It is important to seek help if you are experiencing feelings of sadness, hopelessness, or a loss of interest in activities that were once enjoyable, especially if these feelings persist for more than two weeks and interfere with your daily life.
+
+You should reach out to a healthcare professional if you notice the following:
+
+*   **Difficulty functioning:** You are struggling to keep up with work, school, or household responsibilities.
+*   **Changes in health:** You notice significant changes in your sleep patterns, appetite, or energy levels.
+*   **Persistent negative thoughts:** You feel overwhelmed by feelings of worthlessness, guilt, or despair.
+*   **Difficulty concentrating:** You find it hard to focus or make decisions.
+*   **Thoughts of self-harm:** If you are having thoughts about hurting yourself or feel that life is no longer worth living, seek help immediately.
+
+Symptoms like these can have many different causes, so it is important to speak with a qualified healthcare professional, such as a primary care doctor, a psychiatrist, or a therapist. They can provide an accurate evaluation and discuss appropriate treatment options.
+
+**If you are in immediate distress or are having thoughts of suicide, please contact a crisis hotline or emergency services right away.** In the United States, you can call or text **988** to reach the Suicide & Crisis Lifeline, which is available 24/7.",,,,,2.92,No-RAG,gemini-3.1-flash-lite
+36,personal-symptom,"I have had a fever and joint pain for 3 days, what could this be?","Fever and joint pain are common symptoms that can be associated with many different conditions, ranging from viral infections (such as the flu or other respiratory viruses) to inflammatory conditions or other illnesses. Because these symptoms can have a wide variety of causes, it is not possible to determine what is causing them based on a description alone.
+
+If you are experiencing these symptoms, you should monitor your health and consult with a qualified healthcare professional. They can perform an assessment, ask relevant questions about your medical history, and order necessary tests to provide an accurate diagnosis.
+
+**You should seek immediate medical attention if you experience any of the following ""red flag"" symptoms:**
+*   Difficulty breathing or severe chest pain.
+*   Confusion, dizziness, or extreme lethargy.
+*   A severe headache or a stiff neck.
+*   A sudden, unexplained skin rash.
+*   Persistent vomiting or inability to keep fluids down.
+*   Very high fever that does not respond to over-the-counter fever reducers.
+
+In the meantime, it is generally recommended to rest, stay hydrated by drinking plenty of fluids, and monitor your symptoms closely.",,,,,2.32,No-RAG,gemini-3.1-flash-lite
+37,personal-symptom,"I am feeling very thirsty and tired lately, should I be worried?","Feeling very thirsty (polydipsia) and tired (fatigue) can be caused by many different factors, ranging from lifestyle habits like dehydration or lack of sleep to underlying medical conditions such as diabetes, anemia, thyroid issues, or infections.
+
+Because symptoms like these can have multiple causes, it is not possible to determine if you should be worried without a proper medical evaluation. You should consult a qualified healthcare professional, such as your primary care doctor, to discuss these symptoms. They can perform the necessary tests, such as blood work, to identify the cause and determine the appropriate next steps.
+
+If you experience these symptoms along with ""red flag"" warning signs—such as sudden unintended weight loss, blurred vision, confusion, or an inability to keep fluids down—you should seek medical attention promptly.",,,,,1.74,No-RAG,gemini-3.1-flash-lite

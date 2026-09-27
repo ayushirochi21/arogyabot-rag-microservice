@@ -1,0 +1,146 @@
+9. CHIKUNGUNYA
+Overview
+Chikungunya is a re-emerging viral disease caused by Chikungunya virus (CHIKV). It is
+primarily transmitted to humans through the bite of infected Aedes mosquitoes. The
+disease is usually self-limiting and is rarely fatal. Its most characteristic clinical features
+are sudden fever, severe joint pain and rash.
+The disease can cause significant joint symptoms, and although mild joint
+manifestations generally resolve within a few weeks, more severe joint symptoms may
+persist for several months.
+Key Facts
+• Causative agent: Chikungunya virus (CHIKV).
+• Virus type: Positive-sense, single-stranded RNA virus.
+• Family: Togaviridae.
+• Genus: Alphavirus.
+• Main vector: Infected Aedes mosquitoes.
+• Chikungunya is primarily transmitted through mosquito bites.
+• Incubation period: Usually short; symptoms may begin approximately 48 hours
+after the bite and may take up to 12 days.
+• The disease is generally self-limiting and rarely fatal.
+• Severe joint pain is one of the most characteristic features.
+• Chikungunya can occur without obvious symptoms, particularly in some
+children.
+Transmission
+The main transmission cycle is:
+Infected person → Aedes mosquito → mosquito becomes infected → bite of another
+person → Chikungunya infection
+• Chikungunya virus is most commonly transmitted through the bite of an infected
+Aedes mosquito.
+• Vertical transmission is also possible.
+• Viral levels in the blood are typically highest during the first two days of illness
+and decline thereafter.
+• Because Aedes mosquitoes can also transmit other arboviral infections, clinical
+symptoms may overlap with diseases such as dengue.
+Clinical Features and Symptoms
+Chikungunya should be suspected when the characteristic combination of fever, rash
+and joint pain occurs.
+Common clinical features include:
+• Sudden onset of fever
+• Severe joint pain (arthralgia)
+• Multiple painful joints, often affecting both sides of the body
+• Joint pain involving the hands, wrists, ankles and feet
+• Joint stiffness
+• Joint swelling in some patients
+• Muscle pain
+• Back pain
+• Shoulder discomfort
+• Skin rash
+• Chills, particularly with high fever
+• General constitutional symptoms
+The rash may initially appear as flushing over the face and trunk and may develop into
+an erythematous skin eruption. It can involve the trunk, limbs, face, palms and soles.
+Joint Symptoms
+Joint involvement is a major feature of chikungunya.
+• Joint pain may be polyarticular and migratory.
+• Small joints of the hands, wrists, ankles and feet are commonly affected.
+• Larger joints may also be involved.
+• Severe pain can make walking difficult.
+• Mild joint manifestations generally resolve within a few weeks.
+• More severe joint symptoms may persist for months.
+Rash and Skin Manifestations
+Skin manifestations may begin with flushing of the face and trunk and progress to an
+erythematous rash.
+The rash may occur on:
+• Trunk
+• Arms and legs
+• Face
+• Palms
+• Soles
+The rash generally fades or may undergo desquamation as the illness resolves.
+Complications
+Chikungunya is generally self-limiting, but complications can occasionally occur.
+• Meningoencephalitis can occur infrequently.
+• Neurological complications are particularly important in newborns and people
+with pre-existing medical conditions.
+• Severe or prolonged joint manifestations may significantly affect mobility and
+quality of life.
+• Deaths are rare.
+Diagnosis
+Chikungunya should be suspected clinically when there is the characteristic
+combination of:
+Fever + Rash + Joint/Rheumatic Symptoms
+Laboratory confirmation may be performed using:
+• Chikungunya-specific IgM antibody testing
+• Virus isolation
+• PCR-based detection, particularly during the early stage of infection
+• Molecular testing such as PCR can help identify active infection by detecting
+viral genetic material.
+NCDC's Centre for Arboviral and Zoonotic Diseases lists the following Chikungunya
+diagnostic services:
+• IgM ELISA
+• IgM rapid diagnostic test
+• IgG rapid diagnostic test
+• PCR/qPCR for Chikungunya.
+Treatment and Management
+Chikungunya is generally self-limiting, and NCDC's material states that there is no
+specific treatment for the infection.
+Management therefore focuses on supportive care:
+• Adequate rest
+• Adequate hydration and supportive care
+• Management of fever and joint symptoms
+• Avoid excessive physical activity during severe joint symptoms
+• Gentle movement and mild exercise may help improve stiffness and morning
+joint pain.
+• Persistent or severe joint symptoms require medical evaluation.
+Treatment should be guided by a healthcare professional, particularly when symptoms
+are severe, prolonged or atypical.
+Prevention and Control
+Because chikungunya is mosquito-borne, prevention focuses on avoiding mosquito
+bites and controlling mosquito breeding.
+Personal protection:
+• Use mosquito repellents.
+• Wear clothing that minimizes exposed skin.
+• Use mosquito nets, particularly when resting during the daytime.
+• Protect the home from mosquito entry where possible.
+Mosquito control:
+• Eliminate stagnant water.
+• Remove containers and other places where mosquitoes can breed.
+• Practise source reduction around homes and communities.
+• Maintain environmental cleanliness.
+• Support appropriate vector-control measures during outbreaks.
+People suffering from chikungunya should also avoid mosquito exposure, because
+mosquitoes can acquire the virus from an infected person and subsequently contribute
+to transmission.
+When to Seek Medical Attention
+A person with suspected chikungunya should seek medical evaluation if:
+• Fever is high or persistent.
+• Joint pain is severe or progressively worsening.
+• Symptoms continue for a prolonged period.
+• There are neurological symptoms such as altered consciousness or seizures.
+• The patient is a newborn or has significant underlying medical conditions.
+• Symptoms are atypical or severe.
+• There is concern for another illness such as dengue or another febrile infection.
+Chikungunya: Quick Summary
+Cause: Chikungunya virus
+Spread: Infected Aedes mosquito bites
+Incubation: Approximately 2–12 days
+Main symptoms: Fever, severe joint pain, rash
+Commonly affected joints: Hands, wrists, ankles and feet
+Diagnosis: Clinical assessment + laboratory testing such as IgM and PCR
+Treatment: Supportive care; no specific antiviral treatment
+Prevention: Mosquito-bite protection + elimination of breeding sites
+Prognosis: Usually self-limiting; joint symptoms may persist for months in some
+patients
+Source: National Centre for Disease Control (NCDC), Ministry of Health & Family
+Welfare, Government of India. Manual of Zoonotic Diseases of Public Health
+Importance (ZDPHI Manual 2025), Chapter 3: Arboviral Diseases – Chikungunya
